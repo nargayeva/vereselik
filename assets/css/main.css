@@ -1,16 +1,16 @@
 @font-face {
     font-family: FuturicaRegular;
-    src: url(/assets/fonts/Futurica/Futurica.ttf);
+    src: url('../fonts/Futurica/Futurica.ttf');
   }
 
 @font-face {
     font-family: FuturicaLight;
-    src: url(/assets/fonts/Futurica/FuturicaL.ttf);
+    src: url(../fonts/Futurica/FuturicaL.ttf);
   }
 
 @font-face {
     font-family: FuturicaBold;
-    src: url(/assets/fonts/Futurica/FuturicaB.ttf);
+    src: url(../fonts/Futurica/FuturicaB.ttf);
   }
 
 

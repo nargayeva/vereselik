@@ -1,8 +1,7 @@
 @import "main.css"; 
 
 #banner {
-    background-image: url('/assets/images/banner.jpg');
-    
+    background-image: url('../images/banner.jpg');
 }
 
 .box {
@@ -28,41 +27,41 @@
 }
 
 #sual {
-    background-image: url('/assets/images/sual.png');
+    background-image: url('../images/sual.png');
     background-size: cover;
 }
 
 #meslehet {
-    background-image: url('/assets/images/meslehet.png');
+    background-image: url('../images/meslehet.png');
     background-size: cover;
 }
 
 #xidmet {
-    background-image: url('/assets/images/xidmet.png');
+    background-image: url('../images/xidmet.png');
     background-size: cover;
 }
 
 #ofis {
-    background-image: url('/assets/images/ofis.png');
+    background-image: url('../images/ofis.png');
     background-size: cover;
 }
 
 #herbi {
-    background-image: url('/assets/images/herbi.png');
+    background-image: url('../images/herbi.png');
     background-size: cover;
 }
 
 /* Small devices (landscape phones, 576px and down) */
 @media (max-width: 576px) {
     #banner {
-        background-image: url('/assets/images/law-courts.jpg');
+        background-image: url('../images/law-courts.jpg');
     }
 }
 
 /* Medium devices (tablets, 768px and down) */
 @media (max-width: 768px) { 
     #banner {
-        /* background-image: url('/assets/images/banner\ 2.jpg'); */
+        background-image: url('../images/banner\ 2.jpg');
     }
  }
 

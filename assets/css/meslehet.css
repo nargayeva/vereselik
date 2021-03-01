@@ -4,6 +4,10 @@
     background-image: url('../images/meslehet.jpg');
 }
 
+.banner-title {
+    color: white;
+}
+
 .form-control {
     border-radius: 0% !important;
 }
@@ -32,4 +36,27 @@
 
 textarea {
     min-height: 200px;
+}
+
+
+/* Small devices (landscape phones, 576px and down) */
+@media (max-width: 576px) {
+    #banner {
+        background-image: url('../images/meslehet\ 2.jpg');
+    }
+
+}
+
+/* Medium devices (tablets, 768px and down) */
+@media (max-width: 768px) { 
+ }
+
+ /* Large devices (desktops, 992px and down) */
+@media (min-width: 992px) { 
+    
+}
+
+/* Extra large devices (large desktops, 1200px and down)  */
+@media (min-width: 1200px) { 
+
 }

@@ -1,14 +1,25 @@
 @import "main.css"; 
 #banner {
-    background-image: url('../images/sual-cavab-banner.jpg');
+    background-image: url('../images/sual-cavab-banner.jpg'); 
 }
+
+/* #banner::before{
+    background-color: rgba(0, 0, 0, 0.37);
+    background-size: cover;
+    content: '';
+    display: block;
+    max-height: 100%;
+    position: absolute;
+    width: 100%;
+  } */
 
 .banner-title {
     color: white;
 }
 
 .card {
-    border-radius: 0px !important;
+    border: none !important;
+    border-radius: 0% !important;
 }
 
 .card-header {
@@ -26,6 +37,9 @@
 
 .card-body {
     font-family: FuturicaLight  !important;
+    border-bottom: 1px solid var(--blue-color);
+    border-left: 1px solid var(--blue-color);
+    border-right: 1px solid var(--blue-color);
 }
 
 strong {
@@ -34,4 +48,35 @@ strong {
 
 .fa-sort-desc {
     color: white;
+}
+
+.dropdown-icon {
+    font-size: 1.8em;
+    cursor: pointer;
+}
+
+/* Small devices (landscape phones, 576px and down) */
+@media (max-width: 576px) {
+    #banner {
+        background-image: url('../images/sual-cavab-banner\ 2.jpg');
+    }
+
+    .banner-title {
+        color: var(--black-color);
+    }
+
+}
+
+/* Medium devices (tablets, 768px and down) */
+@media (max-width: 768px) { 
+ }
+
+ /* Large devices (desktops, 992px and down) */
+@media (min-width: 992px) { 
+    
+}
+
+/* Extra large devices (large desktops, 1200px and down)  */
+@media (min-width: 1200px) { 
+
 }

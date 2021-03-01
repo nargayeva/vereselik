@@ -139,11 +139,12 @@ small {
     }
 
     #banner {
-        height: 100px;
+        max-height: 100px;
     }
 
     .banner-title {
-        font-size: 1.2em;
+        font-size: 1.5em;
+        color: white;
     }
 
     .vertical-line {
@@ -154,9 +155,6 @@ small {
 
 /* Medium devices (tablets, 768px and down) */
 @media (max-width: 768px) { 
-    .vertical-line {
-        border: 0px;
-    }
  }
 
  /* Large devices (desktops, 992px and down) */

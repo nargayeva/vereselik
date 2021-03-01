@@ -25,19 +25,19 @@
     border: 0px !important;
 }
 
-.steps-flex {
+/* .steps-flex {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .steps-flex-item {
-    width: 250px;
+    min-width: 250px;
     height: 200px;
-    text-align: end;
+    /* text-align: end; */
     background-color: var(--blue-color);
-    margin: 30px;
-}
+    /* margin: 30px; */
+} */
 
 .steps-flex-item span {
     color: white;
@@ -62,13 +62,6 @@
     background-image: url("../images/4.jpg");
     background-size: cover;
 }
-
-.number {
-    font-size: 10em;
-    font-family: FuturicaBold;
-    margin-right: 10px;
-}
-
 
 /* Small devices (landscape phones, 576px and down) */
 @media (max-width: 576px) {

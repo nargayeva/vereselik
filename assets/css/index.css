@@ -62,7 +62,7 @@
 /* Medium devices (tablets, 768px and down) */
 @media (max-width: 768px) { 
     #banner {
-        background-image: url('/assets/images/banner\ 2.jpg');
+        /* background-image: url('/assets/images/banner\ 2.jpg'); */
     }
  }
 

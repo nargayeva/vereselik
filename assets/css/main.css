@@ -33,7 +33,7 @@ body {
 
 #logo {
     width: 100px;
-    height: 100px;
+    height: 110px;
 }
 
 #languages {
@@ -58,7 +58,7 @@ body {
 #banner {
     display: flex;
     align-items: center;
-    min-height: 500px;
+    min-height: 400px;
     background-size: cover;
     width: 100%;
     background-repeat: no-repeat;
@@ -66,6 +66,7 @@ body {
 
 .banner-title {
     font-size: 2em;
+    color: white;
 }
 
 .title {

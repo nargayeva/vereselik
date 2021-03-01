@@ -1,7 +1,7 @@
 @import "main.css"; 
 
 #banner {
-    background-image: url('../images/banner.jpg');
+    background-image: url('../images/law-courts.jpg');
 }
 
 .box {
@@ -55,6 +55,19 @@
 @media (max-width: 576px) {
     #banner {
         background-image: url('../images/law-courts.jpg');
+        min-height: 200px;
+    }
+
+    .banner-title {
+        font-size: 1.2em;
+    }
+
+    .flex-title {
+        font-size: 1em;
+    }
+
+    .title {
+        font-size: 1.2em;
     }
 }
 

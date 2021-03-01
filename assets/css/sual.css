@@ -3,16 +3,6 @@
     background-image: url('../images/sual-cavab-banner.jpg'); 
 }
 
-/* #banner::before{
-    background-color: rgba(0, 0, 0, 0.37);
-    background-size: cover;
-    content: '';
-    display: block;
-    max-height: 100%;
-    position: absolute;
-    width: 100%;
-  } */
-
 .banner-title {
     color: white;
 }
@@ -28,6 +18,11 @@
 
 .card-header span  {
     color: white !important;
+    -webkit-text-decoration: none;
+}
+
+.card-header span:hover {
+    -webkit-text-decoration: none;
 }
 
 .collapse {

@@ -1,0 +1,52 @@
+@import "main.css"; 
+
+#banner {
+    background-image: url('/assets/images/banner.jpg');
+}
+
+.box {
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
+    background-color: var(--blue-color);
+}
+
+.flex-title {
+    font-size: 1.2em;
+    color: white;
+    border-bottom: 1px solid white;
+    padding-bottom: 50px;
+}
+
+.flex-text {
+    color: white;
+    font-family: FuturicaLight !important;
+}
+
+#sual {
+    background-image: url('/assets/images/sual.png');
+    background-size: cover;
+}
+
+#meslehet {
+    background-image: url('/assets/images/meslehet.png');
+    background-size: cover;
+}
+
+#xidmet {
+    background-image: url('/assets/images/xidmet.png');
+    background-size: cover;
+}
+
+#ofis {
+    background-image: url('/assets/images/ofis.png');
+    background-size: cover;
+}
+
+#herbi {
+    background-image: url('/assets/images/herbi.png');
+    background-size: cover;
+}

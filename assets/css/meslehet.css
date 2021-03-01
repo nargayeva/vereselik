@@ -1,0 +1,35 @@
+@import "./main.css"; 
+
+#banner {
+    background-image: url('../images/meslehet.jpg');
+}
+
+.form-control {
+    border-radius: 0% !important;
+}
+
+.contact {
+    font-family: FuturicaLight;
+    color: var(--black);
+}
+
+.contact-header{
+    font-family: FuturicaRegular;
+    font-size: 1.2em;
+}
+
+.form-group::placeholder{
+    font-family: FuturicaLight !important;
+    opacity: 0.5;
+}
+
+.flex-button {
+    float: right;
+    width: 100px;
+    color: white !important;
+    background-color: var(--blue-color);
+}
+
+textarea {
+    min-height: 200px;
+}

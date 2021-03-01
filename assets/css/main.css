@@ -1,0 +1,170 @@
+@font-face {
+    font-family: FuturicaRegular;
+    src: url(/assets/fonts/Futurica/Futurica.ttf);
+  }
+
+@font-face {
+    font-family: FuturicaLight;
+    src: url(/assets/fonts/Futurica/FuturicaL.ttf);
+  }
+
+@font-face {
+    font-family: FuturicaBold;
+    src: url(/assets/fonts/Futurica/FuturicaB.ttf);
+  }
+
+
+body {
+    font-family: FuturicaRegular !important;
+    height: 100%;
+    margin: 0;
+}
+
+:root {
+    --black-color: #292328;
+    --blue-color: #3A7292;
+    --golden-color: #B19E7F;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+#languages {
+    height: 40px;
+}
+
+#languages span{
+     padding: 8px;
+     background-color: var(--blue-color);
+     color: white;
+     cursor: pointer;
+ }
+
+ #languages span:hover{
+    background-color: var(--golden-color);
+ }
+
+#az {
+     display: none;
+ }
+
+#banner {
+    display: flex;
+    align-items: center;
+    min-height: 500px;
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.banner-title {
+    font-size: 2em;
+}
+
+.title {
+    font-size: 1.5em;
+}
+
+.flex-button {
+    background-color: white;
+    padding: 10px;
+    width: 70%;
+    text-align: center;
+    cursor: pointer;
+    color: var(--black-color) !important;
+    text-decoration: none;
+}
+
+.flex-button:hover {
+    background-color: var(--golden-color);
+    color: white !important;
+    text-decoration: none;
+}
+
+.footer {
+    min-height: 300px;
+    background-color: var(--blue-color);
+}
+
+#footer-title {
+    font-family: FuturicaRegular;
+    color: white;
+}
+.footer-text {
+    color: white;
+    font-family: FuturicaLight;
+}
+
+.footer-text:hover {
+    color: white;
+}
+
+.footer-icons {
+    color: white;
+}
+
+.vertical-line {
+    border-right: 1px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;               
+    background-color:white;
+    height: 1px;
+}
+
+
+small {
+    color: white;
+    font-family: FuturicaLight;
+}
+
+/* Small devices (landscape phones, 576px and down) */
+@media (max-width: 576px) {
+    #logo {
+        width: 50px;
+        height: 50px;
+    }
+
+    #banner {
+        height: 100px;
+    }
+
+    .banner-title {
+        font-size: 1.2em;
+    }
+
+    .vertical-line {
+        border: 0px;
+    }
+
+}
+
+/* Medium devices (tablets, 768px and down) */
+@media (max-width: 768px) { 
+    .vertical-line {
+        border: 0px;
+    }
+ }
+
+ /* Large devices (desktops, 992px and down) */
+@media (min-width: 992px) { 
+    
+}
+
+/* Extra large devices (large desktops, 1200px and down)  */
+@media (min-width: 1200px) { 
+
+}

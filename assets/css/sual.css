@@ -1,0 +1,37 @@
+@import "main.css"; 
+#banner {
+    background-image: url('../images/sual-cavab-banner.jpg');
+}
+
+.banner-title {
+    color: white;
+}
+
+.card {
+    border-radius: 0px !important;
+}
+
+.card-header {
+    background-color: var(--blue-color) !important;
+}
+
+.card-header span  {
+    color: white !important;
+}
+
+.collapse {
+    background-color: white !important;
+    /* border: 1px solid var(--blue-color) !important; */
+}
+
+.card-body {
+    font-family: FuturicaLight  !important;
+}
+
+strong {
+    font-family: FuturicaRegular !important;
+}
+
+.fa-sort-desc {
+    color: white;
+}

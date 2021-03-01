@@ -1,0 +1,77 @@
+@import "main.css"; 
+
+#banner {
+    background-image: url('../images/herbi-banner.jpg');
+}
+
+.banner-title {
+    color: white;
+}
+
+#martyrs-list {
+    color: var(--blue-color);
+    font-size: 1.2em;
+}
+
+.herbi-info {
+    font-size: 1.1em;
+    border-bottom: 1px solid var(--black-color);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-family: FuturicaLight;
+}
+
+.herbi-info-last {
+    border: 0px !important;
+}
+
+.steps-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.steps-flex-item {
+    width: 250px;
+    height: 200px;
+    text-align: end;
+    background-color: var(--blue-color);
+    margin: 30px;
+}
+
+.steps-flex-item span {
+    color: white;
+}
+
+#first {
+    background-image: url("../images/1.jpg");
+    background-size: cover;
+}
+
+#second {
+    background-image: url("../images/2.jpg");
+    background-size: cover;
+}
+
+#third {
+    background-image: url("../images/3.jpg");
+    background-size: cover;
+}
+
+#fourth {
+    background-image: url("../images/4.jpg");
+    background-size: cover;
+}
+
+.number {
+    font-size: 10em;
+    font-family: FuturicaBold;
+    margin-right: 10px;
+}
+
+/* Medium devices (tablets, 768px and down) */
+@media (max-width: 768px) { 
+    .box-text {
+        font-size: 0.8em;
+    }
+ }

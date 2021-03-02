@@ -55,3 +55,5 @@ const validateNull = (tag, condition) => {
     }
 };
 
+$('.dropdown-toggle').dropdown();
+

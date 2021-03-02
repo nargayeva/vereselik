@@ -17,6 +17,7 @@
 }
 
 .card-header span  {
+    font-size: 0.6em;
     color: white !important;
     -webkit-text-decoration: none;
 }
@@ -46,7 +47,7 @@ strong {
 }
 
 .dropdown-icon {
-    font-size: 1.8em;
+    font-size: 1.2em !important;
     cursor: pointer;
 }
 

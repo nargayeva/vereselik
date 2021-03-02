@@ -55,5 +55,11 @@ const validateNull = (tag, condition) => {
     }
 };
 
-$('.dropdown-toggle').dropdown();
+$(document).ready(function() {
+    $('.js-example-basic-multiple').select2({
+        placeholder: "Axtarın...",
+        allowClear: true,
+        maximumSelectionLength: 1
+    });
+});
 

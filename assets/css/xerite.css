@@ -1,0 +1,13 @@
+@import "main.css"; 
+
+#banner {
+    background-image: url('/assets/images/map.jpg');
+}
+
+.banner-title {
+    color: var(--black-color);
+}
+
+.map {
+    background-color: var(--black-color);
+}

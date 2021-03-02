@@ -36,6 +36,10 @@ body {
     height: 110px;
 }
 
+.name {
+    font-weight: bolder;
+}
+
 #languages {
     height: 40px;
 }

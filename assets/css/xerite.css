@@ -1,7 +1,7 @@
 @import "main.css"; 
 
 #banner {
-    background-image: url('../assets/images/map.jpg');
+    background-image: url('../images/map.jpg');
 }
 
 .banner-title {

@@ -9,10 +9,7 @@
 }
 
 iframe {
-    border-radius: 0% !important;
+    border: 1px solid var(--blue-color);
+    min-height: 500px;
 }
 
-.map-container {
-    border-radius: 1px solid var(--blue-color);
-    min-height: 400px;
-}

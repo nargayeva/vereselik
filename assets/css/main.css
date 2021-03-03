@@ -164,10 +164,10 @@ small {
 
 /* Medium devices (tablets, 768px and down) */
 @media (max-width: 768px) { 
-    /* .banner-title {
-        font-size: 1.5em;
-        color: white;
-    } */
+    .logo {
+        width: 60px;
+        height: 60px;
+    }
  }
 
  /* Large devices (desktops, 992px and down) */

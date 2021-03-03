@@ -42,7 +42,7 @@ textarea {
 /* Small devices (landscape phones, 576px and down) */
 @media (max-width: 576px) {
     #banner {
-        background-image: url('../images/meslehet\ 2.jpg');
+        background-image: url('../images/meslehet.jpg');
     }
 
 }

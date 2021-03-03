@@ -8,9 +8,11 @@
     color: var(--black-color);
 }
 
-.map {
-    background-color: var(--black-color);
-    min-height: 300px;
-    background-image: url('/assets/images/map\ baku.png');
-    background-size: cover;
+iframe {
+    border-radius: 0% !important;
+}
+
+.map-container {
+    border-radius: 1px solid var(--blue-color);
+    min-height: 400px;
 }

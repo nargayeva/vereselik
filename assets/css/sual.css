@@ -46,19 +46,33 @@ strong {
     color: white;
 }
 
-.dropdown-icon {
+.dropdown-icon, .fa-arrow-left {
     font-size: 1.2em !important;
     cursor: pointer;
 }
 
+/* .fa-arrow-left {
+    color: var(--blue-color);
+    font-size: 2em !important;
+    cursor: pointer;
+} */
+
 /* Small devices (landscape phones, 576px and down) */
 @media (max-width: 576px) {
     #banner {
-        background-image: url('../images/sual-cavab-banner\ 2.jpg');
+        background-image: url('../images/sual-cavab-banner.jpg');
     }
 
     .banner-title {
-        color: var(--black-color);
+        /* color: var(--black-color); */
+    }
+
+    .card-header span {
+        font-size: 0.5em;
+    }
+
+    .card-body {
+        font-size: 0.9em;
     }
 
 }

@@ -55,10 +55,10 @@
 @media (max-width: 576px) {
     #banner {
         background-image: url('../images/law-courts.jpg');
-        min-height: 200px;
+        /* min-height: 200px; */
     }
 
-    .banner-title {
+    /* .banner-title {
         font-size: 1.2em;
     }
 
@@ -68,7 +68,7 @@
 
     .title {
         font-size: 1.2em;
-    }
+    } */
 }
 
 /* Medium devices (tablets, 768px and down) */

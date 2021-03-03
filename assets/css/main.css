@@ -144,11 +144,11 @@ small {
     }
 
     #banner {
-        max-height: 100px;
+        min-height: 200px;
     }
 
     .banner-title {
-        font-size: 1.5em;
+        font-size: 1.2em;
         color: white;
     }
 
@@ -156,10 +156,18 @@ small {
         border: 0px;
     }
 
+    .title {
+        font-size: 1.2em;
+    }
+
 }
 
 /* Medium devices (tablets, 768px and down) */
 @media (max-width: 768px) { 
+    /* .banner-title {
+        font-size: 1.5em;
+        color: white;
+    } */
  }
 
  /* Large devices (desktops, 992px and down) */

@@ -11,6 +11,7 @@
 #martyrs-list {
     color: var(--blue-color);
     font-size: 1.2em;
+    border-left: 2px solid var(--blue-color);
 }
 
 .herbi-info {
@@ -25,11 +26,11 @@
     border: 0px !important;
 }
 
-.steps-flex {
+/* .steps-flex {
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 
 .steps-flex-item {
     min-width: 300px;
@@ -41,6 +42,10 @@
 
 .steps-flex-item span {
     color: white;
+}
+
+ p{
+    visibility: hidden;
 }
 
 #first {
@@ -73,10 +78,19 @@
         font-size: 0.8em;
     }
 
+    #martyrs-list {
+        font-size: 1em;
+    }
+
+    .herbi-info {
+        font-size: 1em;
+    }
+
 }
 
 /* Medium devices (tablets, 768px and down) */
 @media (max-width: 768px) { 
+
  }
 
  /* Large devices (desktops, 992px and down) */

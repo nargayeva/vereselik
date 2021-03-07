@@ -17,6 +17,14 @@
         <div class="row d-flex justify-content-between">
             <div class="col-md-4 col-12 d-flex flex-column mb-5">
 
+<!--                <multiselect-->
+<!--                        v-model="value"-->
+<!--                        :options="options"-->
+<!--                        custom-label="Test"-->
+<!--                        placeholder="Select one"-->
+<!--                        label="name"-->
+<!--                        track-by="name"-->
+<!--                />-->
                 <select class="js-example-basic-multiple" name="states[]" multiple="multiple">
                     <optgroup label="Bakı">
                         <option value="city_bineqedi">Binəqədi</option>
@@ -110,9 +118,13 @@
                 </select>
 
             </div>
-            <div id="map-container-google-1" class="col-md-8 col-12 z-depth-1-half map-container mb-5 googleMap">
-                <iframe src="https://www.google.com/maps/d/embed?mid=1oKQpI0Mv6Y5MzkZD-GYiC4Tv0oA" frameBorder="0" class="w-100"></iframe>
-            </div>
+            <g-map
+                    class="col-md-8 col-12 z-depth-1-half map-container mb-5 googleMap"
+                    :disableUI="false"
+                    :zoom="12"
+                    mapType="roadmap"
+                    :center="{ lat: 38.44975, lng: 48.87516 }">
+            </g-map>
         </div>
     </div>
 </template>
@@ -120,9 +132,25 @@
 <script>
     import '../assets/css/index.css'
     import '../assets/css/xerite.css';
+    import GMap from "../components/GMap";
 
     export default {
-        name: "Xerite"
+        name: "Xerite",
+        components: {
+            GMap
+        },
+        data () {
+            return {
+                value: { name: 'Vue.js', language: 'JavaScript' },
+                options: [
+                    { name: 'Vue.js', language: 'JavaScript' },
+                    { name: 'Rails', language: 'Ruby' },
+                    { name: 'Sinatra', language: 'Ruby' },
+                    { name: 'Laravel', language: 'PHP' },
+                    { name: 'Phoenix', language: 'Elixir' }
+                ]
+            }
+        },
     }
 </script>
 

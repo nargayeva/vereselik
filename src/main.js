@@ -7,6 +7,7 @@ import 'bootstrap/dist/js/bootstrap.min.js'
 import '@fortawesome/fontawesome-free/css/all.css'
 import '@fortawesome/fontawesome-free/js/all.js'
 import './assets/css/index.css'
+import global from "./utils/plugins/global";
 
 // Store, Mixins & Plugins
 import i18n from "./utils/plugins/i18n";
@@ -18,6 +19,7 @@ const app = createApp(App);
 
 // Plugins
 app.use(i18n);
+app.use(global);
 
 // Router
 app.use(router);

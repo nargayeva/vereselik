@@ -864,6 +864,13 @@
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-free/-/fontawesome-free-5.15.2.tgz#218cd7276ab4f9ab57cc3d2efa2697e6a579f25d"
   integrity sha512-7l/AX41m609L/EXI9EKH3Vs3v0iA8tKlIOGtw+kgcoanI7p+e4I4GYLqW3UXWiTnjSFymKSmTTPKYrivzbxxqA==
 
+"@googlemaps/js-api-loader@^1.11.1":
+  version "1.11.2"
+  resolved "https://registry.yarnpkg.com/@googlemaps/js-api-loader/-/js-api-loader-1.11.2.tgz#d946bc1a858bfa04bbe15e42f89cb113a838e1b0"
+  integrity sha512-PgB3VQSPH9338PW2OXtJHdCAy9GdsI4Wskv0yAfVs7u8nFOrmt98A2Y/FodyRTno6DOqtS9q8jjK9PJ0/h2a4w==
+  dependencies:
+    fast-deep-equal "^3.1.3"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
@@ -3856,7 +3863,7 @@ extsprintf@^1.2.0:
   resolved "https://registry.yarnpkg.com/extsprintf/-/extsprintf-1.4.0.tgz#e2689f8f356fad62cca65a3a91c5df5f9551692f"
   integrity sha1-4mifjzVvrWLMplo6kcXfX5VRaS8=
 
-fast-deep-equal@^3.1.1:
+fast-deep-equal@^3.1.1, fast-deep-equal@^3.1.3:
   version "3.1.3"
   resolved "https://registry.yarnpkg.com/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz#3a7d56b559d6cbc3eb512325244e619a65c6c525"
   integrity sha512-f3qQ9oQy9j2AhBe/H9VC91wLmKBCCU/gDOnKNAYG5hswO7BLKj09Hc5HYNz9cGI++xlpDCIgDaitVs03ATR84Q==
@@ -8493,6 +8500,13 @@ vue-template-es2015-compiler@^1.9.0:
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
+
+vue3-google-map@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/vue3-google-map/-/vue3-google-map-0.6.0.tgz#9d44b390b1c25ef52962cd267be73b4a564cab95"
+  integrity sha512-FoDwGtANsWY19y3mwgpWp0CjYADUyOwa1DiqH9CGLP76gAId5gqzvtwC0ODJztYJQfYiTExH9MnolylCAYmX1Q==
+  dependencies:
+    "@googlemaps/js-api-loader" "^1.11.1"
 
 vue@^3.0.0-0:
   version "3.0.7"

@@ -1,0 +1,104 @@
+@import "main.css";
+
+#banner {
+    background-image: url('../../../public/images/herbi-banner.jpg');
+}
+
+.banner-title {
+    color: white;
+}
+
+#martyrs-list {
+    color: var(--blue-color);
+    font-size: 1.2em;
+    border-left: 2px solid var(--blue-color);
+}
+
+.herbi-info {
+    font-size: 1.1em;
+    border-bottom: 1px solid var(--black-color);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-family: FuturicaLight;
+}
+
+.herbi-info-last {
+    border: 0px !important;
+}
+
+/* .steps-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.steps-flex-item {
+    min-width: 300px;
+    height: 200px;
+    /* text-align: end; */
+    background-color: var(--blue-color);
+    /* margin: 30px; */
+}
+
+.steps-flex-item span {
+    color: white;
+}
+
+ p{
+    visibility: hidden;
+}
+
+#first {
+    background-image: url("../../../public/images/1.jpg");
+    background-size: cover;
+}
+
+#second {
+    background-image: url("../../../public/images/2.jpg");
+    background-size: cover;
+}
+
+#third {
+    background-image: url("../../../public/images/3.jpg");
+    background-size: cover;
+}
+
+#fourth {
+    background-image: url("../../../public/images/4.jpg");
+    background-size: cover;
+}
+
+/* Small devices (landscape phones, 576px and down) */
+@media (max-width: 576px) {
+    #banner {
+        background-image: url('../../../public/images/herbi-banner\ 2.jpg');
+    }
+
+    .box-text {
+        font-size: 0.8em;
+    }
+
+    #martyrs-list {
+        font-size: 1em;
+    }
+
+    .herbi-info {
+        font-size: 1em;
+    }
+
+}
+
+/* Medium devices (tablets, 768px and down) */
+@media (max-width: 768px) {
+
+ }
+
+ /* Large devices (desktops, 992px and down) */
+@media (min-width: 992px) {
+
+}
+
+/* Extra large devices (large desktops, 1200px and down)  */
+@media (min-width: 1200px) {
+
+}

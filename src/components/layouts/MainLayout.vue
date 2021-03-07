@@ -1,11 +1,19 @@
 <template>
+    <Header />
     <router-view />
+    <Footer />
 </template>
 
 <script>
+    import Header from "../common/Header";
+    import Footer from "../common/Footer";
+
     export default {
         name: "MainLayout",
-        components: {}
+        components: {
+            Header,
+            Footer
+        }
     }
 </script>
 

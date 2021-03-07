@@ -10,6 +10,26 @@ const routes = [
                 path: '',
                 name: 'home',
                 component: () => import('../views/Home'),
+            },
+            {
+                path: 'herbi',
+                name: 'herbi',
+                component: () => import('../views/Herbi'),
+            },
+            {
+                path: 'meslehet',
+                name: 'meslehet',
+                component: () => import('../views/Meslehet'),
+            },
+            {
+                path: 'sual-cavab',
+                name: 'sual-cavab',
+                component: () => import('../views/SualCavab'),
+            },
+            {
+                path: 'xerite',
+                name: 'xerite',
+                component: () => import('../views/Xerite'),
             }
         ]
     }

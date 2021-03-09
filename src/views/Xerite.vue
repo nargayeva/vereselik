@@ -18,7 +18,7 @@
             <div class="col-md-4 col-12 d-flex flex-column mb-5">
 
                 <!-- Regions -->
-                <select class="js-example-basic-multiple" name="states[]" v-model="selectedRegion">
+                <select v-model="selectedRegion">
                     <optgroup label="Bakı">
                         <option
                                 v-for="(datum, i) in [...notarius_data].filter(d => d.region)"

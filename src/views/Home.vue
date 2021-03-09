@@ -72,5 +72,7 @@
 </script>
 
 <style scoped>
-
+    #banner {
+        background-image: url('../../public/images/law-courts.jpg');
+    }
 </style>

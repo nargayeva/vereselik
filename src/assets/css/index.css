@@ -1,9 +1,5 @@
 @import "main.css";
 
-#banner {
-    background-image: url('../../../public/images/law-courts.jpg');
-}
-
 .box {
     padding: 40px;
     display: flex;

@@ -4,11 +4,11 @@
       <div
         class="col-md-5 col-6 d-flex justify-content-end justify-content-md-start"
       >
-        <router-link to="/"
+        <a href="/vereselik"
           ><img
             :src="require('/public/images/edliyye - logo.png')"
             class="float-center float-sm-left align-self-center img-fluid logo"
-        /></router-link>
+        /></a>
         <div class="d-flex h-100">
           <span
             class="ml-4 justify-content-center align-self-center d-none d-sm-block name"

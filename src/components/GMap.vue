@@ -3,7 +3,7 @@
             api-key="AIzaSyBoqgtA5cFMclxc4eW0fl30n9MVoNRVYEM"
             style="width: 100%; height: 500px"
             :center="center"
-            :zoom="15"
+            :zoom="zoom || 15"
     >
         <Marker
                 v-for="(datum, i) in markers"
@@ -23,7 +23,8 @@
         },
         props: {
             center: Object,
-            markers: Array
+            markers: Array,
+            zoom: Number
         },
     };
 </script>

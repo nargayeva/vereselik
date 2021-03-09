@@ -51,6 +51,7 @@
                 <g-map
                         :center="center"
                         :markers="notarius_data"
+                        :zoom="zoom"
                 />
             </div>
         </div>
@@ -77,6 +78,7 @@
                     lat: 40.348194,
                     lng: 49.835208
                 },
+                zoom: null,
                 selectedRegion: null,
                 selectedNotariat: null
             }
@@ -89,6 +91,7 @@
         methods: {
             updateCenter(location) {
                 this.center = location;
+                this.zoom = 20;
             }
         },
         watch: {
@@ -104,6 +107,8 @@
                 handler(region) {
                     if (!region) {
                         this.selectedNotariat = null;
+                        this.center = null;
+                        this.zoom = null;
                     }
                 },
                 deep: true

@@ -1,1027 +1,2052 @@
 [
     {
+        "id": 0,
         "name": "Bakı şəhəri, 1 saylı notariat ofisi",
         "loc": {
             "lat": 40.373563,
             "lng": 49.848093
         },
-        "region": "Səbail"
+        "region": "Səbail",
+        "info": {
+            "region": "Səbail",
+            "address": "Səbail rayonu Ü.Hacıbəyov küçəsi 43",
+            "person_name": "Sabitov Famil Mirsadiq oğlu\nHüseynov Elvin Elbrus oğlu",
+            "phone": "(051) 509-64-97",
+            "telephone": "(012) 498-45-14 \n(012) 493-45-14",
+            "email": "bakunotary1@gmail.com"
+        }
     },
     {
+        "id": 2,
         "name": "Bakı şəhəri, 2 saylı notariat ofisi",
         "loc": {
             "lat": 40.348194,
             "lng": 49.835208
         },
-        "region": "Səbail"
+        "region": null,
+        "info": null
     },
     {
+        "id": 4,
         "name": "Bakı şəhəri, 3 saylı notariat ofisi",
         "loc": {
             "lat": 40.403366,
             "lng": 49.868012
         },
-        "region": "Nərimanov"
+        "region": "Nərimanov",
+        "info": {
+            "region": "Nərimanov",
+            "address": "Nərimanov rayonu, Ə.Rəcəbli küçəsi 5",
+            "person_name": "Orucov Hacı Əbrək oğlu",
+            "phone": "(050) 215-92-99",
+            "telephone": "(012) 496-14-45",
+            "email": "notariatofis3@mail.ru "
+        }
     },
     {
+        "id": 6,
         "name": "Bakı şəhəri, 4 saylı notariat ofisi",
         "loc": {
             "lat": 40.442207,
             "lng": 49.942611
         },
-        "region": "Sabunçu"
+        "region": "Sabunçu",
+        "info": {
+            "region": "Sabunçu",
+            "address": "Sabunçu rayonu, Sabunçu qəs. Ə.Məmmədəliyev küç. 4",
+            "person_name": "Tağıyev Nizami Nazim oğlu",
+            "phone": "(050) 211-83-90",
+            "telephone": "(012) 450-23-61",
+            "email": "bakunotary4@gmail.com "
+        }
     },
     {
+        "id": 8,
         "name": "Bakı şəhəri, 5 saylı notariat ofisi",
         "loc": {
             "lat": 40.377296,
             "lng": 49.831646
         },
-        "region": "Yasamal"
+        "region": "Yasamal",
+        "info": {
+            "region": "Yasamal",
+            "address": "Yasamal rayonu, Ş.Qurbanov küçəsi 15",
+            "person_name": "Məmmədov İlham Abuzər oğlu",
+            "phone": "(050) 325-00-52",
+            "telephone": "(012) 596-04-14\n(012) 594-16-93",
+            "email": "notariusilham5@gmail.com"
+        }
     },
     {
+        "id": 10,
         "name": "Bakı şəhəri, 6 saylı notariat ofisi",
         "loc": {
             "lat": 40.382121,
             "lng": 49.869355
         },
-        "region": "Xətai"
+        "region": "Xətai",
+        "info": {
+            "region": "Xətai",
+            "address": "Xətai rayonu, Xocalı prospekti 24/A",
+            "person_name": "İmanov Ərəstun Loğman oğlu",
+            "phone": "(050) 316-33-31",
+            "telephone": "(012) 490-21-61",
+            "email": "notar6@mail.ru"
+        }
     },
     {
+        "id": 12,
         "name": "Bakı şəhəri, 7 saylı notariat ofisi",
         "loc": {
             "lat": 40.485293,
             "lng": 50.177106
         },
-        "region": "Xəzər"
+        "region": "Xəzər",
+        "info": {
+            "region": "Xəzər",
+            "address": "Xəzər rayonu A.İldırım küçəsi 39",
+            "person_name": "Vədətov Nadir Əlimədət oğlu",
+            "phone": "(050) 352-35-80",
+            "telephone": "(012) 454-22-71",
+            "email": "vedetov.7sayl@bk.ru "
+        }
     },
     {
+        "id": 14,
         "name": "Bakı şəhəri, 8 saylı notariat ofisi",
         "loc": {
             "lat": 40.321989,
             "lng": 49.742589
         },
-        "region": "Qaradağ"
+        "region": "Qaradağ",
+        "info": {
+            "region": "Qaradağ",
+            "address": "Qaradağ rayonu, Lökbatan qəs., 28 may küç. 1",
+            "person_name": "Nəcəfova Vəsilə Məhəmməd qızı",
+            "phone": "(050) 347-98-88",
+            "telephone": "(012) 445-10-34",
+            "email": "notar8@mail.ru"
+        }
     },
     {
+        "id": 16,
         "name": "Bakı şəhəri, 9 saylı notariat ofisi",
         "loc": {
             "lat": 40.4053621,
             "lng": 49.865299
         },
-        "region": "Nərimanov"
+        "region": "Nərimanov",
+        "info": {
+            "region": "Nərimanov",
+            "address": "Nərimanov rayonu, H.Əliyev prospekti 72",
+            "person_name": "Sadıqov Rəşadət Zülfüqar oğlu",
+            "phone": "(050) 211-53-61",
+            "telephone": "(012) 514-09-21",
+            "email": "baki9nk@gmail.com"
+        }
     },
     {
+        "id": 18,
         "name": "Bakı şəhəri, 10 saylı notariat ofisi",
         "loc": {
             "lat": 40.421035,
             "lng": 50.000806
         },
-        "region": "Suraxanı"
+        "region": "Suraxanı",
+        "info": {
+            "region": "Suraxanı",
+            "address": "Suraxanı rayonu, Əmircan qəs., M.Mustafayev küçəsi 7a",
+            "person_name": "Hadıyev Mirbaba Qabil oğlu",
+            "phone": "(050) 335-02-46",
+            "telephone": "(012) 452-05-00",
+            "email": "notariat10@yahoo.com "
+        }
     },
     {
+        "id": 20,
         "name": "Bakı şəhəri, 11 saylı notariat ofisi",
         "loc": {
             "lat": 40.417909,
             "lng": 49.839998
         },
-        "region": "Binəqədi"
+        "region": "Binəqədi",
+        "info": {
+            "region": "Binəqədi",
+            "address": "Binəqədi rayonu, Azadlıq pr. 200/36",
+            "person_name": "Məmmədov İlqar Aydın oğlu",
+            "phone": "(050) 492-01-34",
+            "telephone": "(012) 563-00-73",
+            "email": "notariatofis@mail.ru"
+        }
     },
     {
+        "id": 22,
         "name": "Bakı şəhəri, 12 saylı notariat ofisi",
         "loc": {
             "lat": 40.379861,
             "lng": 49.821598
         },
-        "region": "Yasamal"
+        "region": "Yasamal",
+        "info": {
+            "region": "Yasamal",
+            "address": "Yasamal rayonu, İnşaatçılar prospekti 28a",
+            "person_name": "Hacıyev Hünər Zabil oğlu",
+            "phone": "(050) 211-64-32",
+            "telephone": "(012) 538-23-76",
+            "email": "12notariat@gmail.com  "
+        }
     },
     {
+        "id": 24,
         "name": "Bakı şəhəri, 13 saylı notariat ofisi",
         "loc": {
             "lat": 40.388641,
             "lng": 49.841029
         },
-        "region": "Nəsimi"
+        "region": "Nəsimi",
+        "info": {
+            "region": "Nəsimi",
+            "address": "Nəsimi rayonu, N.Vəzirov küçəsi 56",
+            "person_name": "Hüseynova İradə Tanrıverdi qızı",
+            "phone": "(050) 394-61-60",
+            "telephone": "(012) 440-03-92",
+            "email": "13saylidnk@mail.ru"
+        }
     },
     {
+        "id": 26,
         "name": "Bakı şəhəri, 14 saylı notariat ofisi",
         "loc": {
             "lat": 40.4046562,
             "lng": 49.8087404
         },
-        "region": "Nəsimi"
+        "region": "Nəsimi",
+        "info": {
+            "region": "Nəsimi",
+            "address": "Nəsimi rayonu, Moskva prospekti 58/1",
+            "person_name": "Əliyev Elmar Qəzənfər oğlu",
+            "phone": "(050) 211-53-79",
+            "telephone": "(012) 431-89-44",
+            "email": "notariat.14sayli@yahoo.com"
+        }
     },
     {
+        "id": 28,
         "name": "Bakı şəhəri, 15 saylı notariat ofisi",
         "loc": {
             "lat": 40.409153,
             "lng": 49.936035
         },
-        "region": "Nizami"
+        "region": "Nizami",
+        "info": {
+            "region": "Nizami",
+            "address": "Nizami rayonu, Məhsəti küç.9",
+            "person_name": "Məmmədov Afiq Kamran oğlu",
+            "phone": "(050) 210-25-76",
+            "telephone": "(012) 422-33-82",
+            "email": "bakink15@gmail.com"
+        }
     },
     {
+        "id": 30,
         "name": "Bakı şəhəri, 16 saylı notariat ofisi",
         "loc": {
             "lat": 40.421924,
             "lng": 49.963462
         },
-        "region": "Sabunçu"
+        "region": "Sabunçu",
+        "info": {
+            "region": "Sabunçu",
+            "address": "Sabunçu rayonu, Bakıxanov qəsəbəsi, Park küçəsi 10",
+            "person_name": "Abiyeva Gülüş Ələsgər qız",
+            "phone": "(050) 664-86-84",
+            "telephone": "(012) 428-14-80",
+            "email": "gulush.abiyeva.65@mail.ru"
+        }
     },
     {
+        "id": 32,
         "name": "Bakı şəhəri, 17 saylı notariat ofisi",
         "loc": {
             "lat": 40.5202572,
             "lng": 49.9855266
         },
-        "region": "Sabunçu"
+        "region": "Sabunçu",
+        "info": {
+            "region": "Sabunçu",
+            "address": "Sabunçu rayonu, Maştağa qəsəbəsi, Şəhər şossesi, Bağ sahəsi",
+            "person_name": "Məmmədov Süleyman Hamlet oğlu",
+            "phone": "(050) 218-10-71",
+            "telephone": "(012) 455-22-92",
+            "email": "17dnk@bk.ru                  "
+        }
     },
     {
+        "id": 34,
         "name": "Bakı şəhəri, 18 saylı notariat ofisi",
         "loc": {
             "lat": 40.386722,
             "lng": 49.957611
         },
-        "region": "Xətai"
+        "region": "Xətai",
+        "info": {
+            "region": "Xətai",
+            "address": "Xətai rayonu, Sarayev küçəsi 11",
+            "person_name": "Məlikov Cavanşir Balaəhməd oğlu\nBəşirov Anar Dağbəyi oğlu",
+            "phone": "(051) 718-18-18 (050) 210-84-04",
+            "telephone": "(012) 370-07-01\n\t(012) 370-54-28",
+            "email": "anarbashirov@mail.ru"
+        }
     },
     {
+        "id": 36,
         "name": "Bakı şəhəri, 19 saylı notariat ofisi",
         "loc": {
             "lat": 40.394279,
             "lng": 49.803332
         },
-        "region": "Yasamal"
+        "region": "Yasamal",
+        "info": {
+            "region": "Yasamal",
+            "address": "Yasamal rayonu, Ə.Əhmədov küçəsi 26 a",
+            "person_name": "Quliyev Nizami Qulu oğlu\nHacızadə Hafiz Hətəm oğlu",
+            "phone": "(051) 312-23-23 (050) 350-73-74",
+            "telephone": "(012) 432-90-98",
+            "email": "19_nk@mail.ru  "
+        }
     },
     {
+        "id": 38,
         "name": "Bakı şəhəri, 20 saylı notariat ofisi",
         "loc": {
             "lat": 40.42299,
             "lng": 49.802075
         },
-        "region": "Binəqədi"
+        "region": "Binəqədi",
+        "info": {
+            "region": "Binəqədi",
+            "address": "Binəqədi rayonu, R.İsmayılov küç.1 A",
+            "person_name": "Səmədov Səristan Məcid oğlu",
+            "phone": "(055) 742-33-01",
+            "telephone": "(012) 406-72-95",
+            "email": "notariat20@gmail.com  "
+        }
     },
     {
+        "id": 40,
         "name": "Bakı şəhəri, 21 saylı notariat ofisi",
         "loc": {
             "lat": 40.405066,
             "lng": 49.875306
         },
-        "region": "Nərimanov"
+        "region": "Nərimanov",
+        "info": {
+            "region": "Nərimanov",
+            "address": "Nərimanov rayonu, Təbriz küçəsi 227d",
+            "person_name": "Kərimov Daxil Fazil oğlu",
+            "phone": "(050) 201-81-88",
+            "telephone": "(012) 567-60-20",
+            "email": "notariat.21office@gmail.com "
+        }
     },
     {
+        "id": 42,
         "name": "Bakı şəhəri, 22 saylı notariat ofisi",
         "loc": {
             "lat": 40.418706,
             "lng": 49.817656
         },
-        "region": "Nəsimi"
+        "region": null,
+        "info": null
     },
     {
+        "id": 44,
         "name": "Bakı şəhəri, 23 saylı notariat ofisi",
         "loc": {
             "lat": 40.386765,
             "lng": 49.816084
         },
-        "region": "Nizami"
+        "region": "Nizami",
+        "info": {
+            "region": "Nizami",
+            "address": "Nizami rayonu, Bəhruz Nuriyev küç. 29",
+            "person_name": "Dəmirov Zaur Nizami oğlu",
+            "phone": "(050) 210-13-38",
+            "telephone": "(012) 539-25-77",
+            "email": "23notariat@gmail.com"
+        }
     },
     {
+        "id": 46,
         "name": "Bakı şəhəri, 24 saylı notariat ofisi",
         "loc": {
             "lat": 40.390599,
             "lng": 49.973974
         },
-        "region": "Suraxanı"
+        "region": "Suraxanı",
+        "info": {
+            "region": "Suraxanı",
+            "address": "Suraxanı rayonu, Qaraçuxur qəsəbəsi, K.İsmayılov küçəsi 1",
+            "person_name": "Nəcəfli Zərifə Malik qızı",
+            "phone": "(050) 208-30-54",
+            "telephone": "(012) 427-93-86\n(012) 427-89-25",
+            "email": "24notariat@gmail.com"
+        }
     },
     {
+        "id": 48,
         "name": "Bakı şəhəri, 25 saylı notariat ofisi",
         "loc": {
             "lat": 40.521444,
             "lng": 50.100444
         },
-        "region": "Xəzər"
+        "region": "Xəzər",
+        "info": {
+            "region": "Xəzər",
+            "address": "Xəzər rayonu Buzovna qəsəbəsi Qələbə küçəsi 4",
+            "person_name": "Səfərov Fuad Nuşrəvan oğlu",
+            "phone": "(050) 635-55-55",
+            "telephone": "(012) 453-18-23",
+            "email": "baki25dnk@gmail.com "
+        }
     },
     {
+        "id": 50,
         "name": "Bakı şəhəri, 26 saylı notariat ofisi",
         "loc": {
             "lat": 40.440645,
             "lng": 49.956848
         },
-        "region": "Binəqədi"
+        "region": "Binəqədi",
+        "info": {
+            "region": "Binəqədi",
+            "address": "Binəqədi rayonu, Binəqədi qəsəbəsi, Aydınbəyov küç. 106",
+            "person_name": "Hüseynov İlham Bayram oğlu",
+            "phone": "(050) 209-90-76",
+            "telephone": "(012) 412-26-81",
+            "email": "26.nk@mail.ru "
+        }
     },
     {
+        "id": 52,
         "name": "Bakı şəhəri, 27 saylı notariat ofisi",
         "loc": {
             "lat": 40.421212,
             "lng": 49.836963
         },
-        "region": "Binəqədi"
+        "region": "Binəqədi",
+        "info": {
+            "region": "Binəqədi",
+            "address": "Binəqədi rayonu, Binəqədi şossesi 83R",
+            "person_name": "Qurbanov Eldar Həsən oğlu",
+            "phone": "(050) 357-23-00",
+            "telephone": "(012) 568-32-48",
+            "email": "Gurbanov.Eldar@gmail.com"
+        }
     },
     {
+        "id": 54,
         "name": "Bakı şəhəri, 28 saylı notariat ofisi",
         "loc": {
             "lat": 40.354306,
             "lng": 49.807417
         },
-        "region": "Səbail"
+        "region": "Səbail",
+        "info": {
+            "region": "Səbail",
+            "address": "Səbail rayonu, Badamdar qəsəbəsi, M.Müşfiq küçəsi 2a",
+            "person_name": "Kərimov Elmar Əsgər oğlu",
+            "phone": "(050) 221-20-46",
+            "telephone": "(012) 565-99-83",
+            "email": "28notariat@gmail.com  "
+        }
     },
     {
+        "id": 56,
         "name": "Bakı şəhəri, 29 saylı notariat ofisi",
         "loc": {
             "lat": 40.382824,
             "lng": 49.843111
         },
-        "region": "Nəsimi"
+        "region": "Nəsimi",
+        "info": {
+            "region": "Nəsimi",
+            "address": "Nəsimi rayonu, R.Behbudov küç. 122 A",
+            "person_name": "Mirzəzadə İslam Natiq oğlu",
+            "phone": "(051) 917-51-51",
+            "telephone": "(012) 404-80-94",
+            "email": "29_sayli_nk@mail.ru "
+        }
     },
     {
+        "id": 58,
         "name": "Bakı şəhəri, 30 saylı notariat ofisi",
         "loc": {
             "lat": 40.40925,
             "lng": 49.944457
         },
-        "region": "Nizami"
+        "region": "Nizami",
+        "info": {
+            "region": "Nizami",
+            "address": "Nizami rayonu, Q.Qarayev prospekti 56",
+            "person_name": "Əliyev Əli Yaqub oğlu",
+            "phone": "(050) 323-00-00",
+            "telephone": "(012) 520-24-33",
+            "email": "notariat30@gmail.com"
+        }
     },
     {
-        "name": "Bakı şəhəri, 31 saylı notariat ofisi",
+        "id": 60,
+        "name": "﻿Bakı şəhəri, 31 saylı notariat ofisi",
         "loc": {
             "lat": 40.448667,
             "lng": 50.088583
         },
-        "region": "Xəzər"
-
+        "region": null,
+        "info": null
     },
     {
+        "id": 62,
         "name": "Bakı şəhəri, 32 saylı notariat ofisi",
         "loc": {
             "lat": 40.417262,
             "lng": 49.8042294
         },
-        "region": "Binəqədi"
+        "region": "Binəqədi",
+        "info": {
+            "region": "Binəqədi",
+            "address": "Binəqədi rayonu, 9a mkr., Mir Cəlal küç. 31",
+            "person_name": "İmanlı Elgün Akif oğlu",
+            "phone": "(050) 200-37-00",
+            "telephone": "(012) 430-14-52",
+            "email": "32nk@inbox.ru  "
+        }
     },
     {
+        "id": 64,
         "name": "Bakı şəhəri, 33 saylı dövlət notariat ofisi",
         "loc": {
             "lat": 40.371667,
             "lng": 50.284417
         },
-        "region": "Xəzər"
+        "region": null,
+        "info": null
     },
     {
+        "id": 66,
         "name": "Bakı şəhəri, 34 saylı notariat ofisi",
         "loc": {
             "lat": 40.384594,
             "lng": 49.982859
         },
-        "region": "Yasamal"
+        "region": "Yasamal",
+        "info": {
+            "region": "Yasamal",
+            "address": "Yasamal rayonu, İ.Qutqaşınlı 86 (1 saylı DOST Mərkəzi)",
+            "person_name": "Bektaşi Sübhi Ehtibar oğlu",
+            "phone": "(050) 242-50-01",
+            "telephone": "(012) 525-50-26",
+            "email": "34notariat@gmail.com  "
+        }
     },
     {
+        "id": 68,
         "name": "Bakı şəhəri, 35 saylı notariat ofisi",
         "loc": {
             "lat": 40.365257,
             "lng": 50.07557
         },
-        "region": "Suraxanı"
+        "region": "Suraxanı",
+        "info": {
+            "region": "Suraxanı",
+            "address": "Suraxanı rayonu, Hövsan qəsəbəsi, E.Qasımov küçəsi 15A",
+            "person_name": "Məmmədov Cahid Mikayıl oğlu",
+            "phone": "(050) 738-77-13",
+            "telephone": "(012) 447-26-56",
+            "email": "notariat_35@mail.ru   "
+        }
     },
     {
+        "id": 70,
         "name": "Bakı şəhəri, 36 saylı notariat ofisi",
         "loc": {
             "lat": 40.374118,
             "lng": 49.954005
         },
-        "region": "Xətai"
+        "region": "Xətai",
+        "info": {
+            "region": "Xətai",
+            "address": "Xətai rayonu, M. Hadi küçəsi 65k",
+            "person_name": "Dadaşova Rəna Almas qızı",
+            "phone": "(050) 611-44-81",
+            "telephone": "(012) 373-02-19",
+            "email": "notariat36@mail.ru"
+        }
     },
     {
+        "id": 72,
         "name": "Bakı şəhəri, 37 saylı notariat ofisi",
         "loc": {
             "lat": 40.386472,
             "lng": 49.97625
         },
-        "region": "Suraxanı"
+        "region": "Suraxanı",
+        "info": {
+            "region": "Suraxanı",
+            "address": "Suraxanı rayonu, Y.Günəşli qəs., A/B massivi 117a",
+            "person_name": "Süleymanov Qulu Abduləli oğlu",
+            "phone": "(050) 311-10-69",
+            "telephone": "(012) 477-00-12",
+            "email": "suleymanov.37notariat@gmail.com"
+        }
     },
     {
+        "id": 74,
         "name": "Bakı şəhəri, 38 saylı notariat ofisi",
         "loc": {
             "lat": 40.403417,
             "lng": 49.850972
         },
-        "region": "Nərimanov"
+        "region": "Nərimanov",
+        "info": {
+            "region": "Nərimanov",
+            "address": "Nərimanov rayonu, Atatürk pr.36",
+            "person_name": "Xəlilov İkram Mehrab oğlu",
+            "phone": "(050) 214-74-74",
+            "telephone": "(012) 465-61-60",
+            "email": "ikramx@gmail.com"
+        }
     },
     {
+        "id": 76,
         "name": "Bakı şəhəri, 39 saylı notariat ofisi",
         "loc": {
             "lat": 40.489306,
             "lng": 49.955417
         },
-        "region": "Sabunçu"
+        "region": "Sabunçu",
+        "info": {
+            "region": "Sabunçu",
+            "address": "Sabunçu rayonu, Zabrat 2 qəsəbəsi, Kürdəxanı ş.10",
+            "person_name": "Qasımlı Rövşən Yaşar oğlu",
+            "phone": "(050) 224-00-39",
+            "telephone": "(012) 550-24-91\n(012) 550-29-20",
+            "email": "notarius39@gmail.com  "
+        }
     },
     {
+        "id": 78,
         "name": "Bakı şəhəri, 40 saylı notariat ofisi",
         "loc": {
             "lat": 40.372306,
             "lng": 49.948611
         },
-        "region": "Xətai"
+        "region": "Xətai",
+        "info": {
+            "region": "Xətai",
+            "address": "Xətai rayonu, X.Məmmədov küçəsi 6",
+            "person_name": "Hüseynova Şəhla Məhəmmədəli qızı",
+            "phone": "(050) 358-38-28",
+            "telephone": "(012) 371-28-38\n(012) 379-28-38",
+            "email": "huseynova_nk40@mail.ru"
+        }
     },
     {
+        "id": 80,
         "name": "Bakı şəhəri, 41 saylı notariat ofisi",
         "loc": {
             "lat": 40.378827,
             "lng": 49.849575
         },
-        "region": "Nəsimi"
+        "region": "Nəsimi",
+        "info": {
+            "region": "Nəsimi",
+            "address": "Bakı şəhəri, Nəsimi rayonu, D.Əliyeva küçəsi 235A",
+            "person_name": "Qazızadə Natiq Tariyel oğlu",
+            "phone": "(050) 210-88-48",
+            "telephone": "(012) 599-02-41",
+            "email": "notarius-41@mail.ru"
+        }
     },
     {
+        "id": 82,
         "name": "Bakı şəhəri, 42 saylı notariat ofisi",
         "loc": {
             "lat": 40.393764,
             "lng": 49.794412
         },
-        "region": "Yasamal"
+        "region": "Yasamal",
+        "info": {
+            "region": "Yasamal",
+            "address": "Yasamal rayonu, Yeni Yasamal y/m, Bünyadzadə və Talıblı küçələrinin kəsişməsi",
+            "person_name": "Məmmədov Tufan Məmməd oğlu",
+            "phone": "(050) 388-46-45",
+            "telephone": "(012) 448-81-95\n(012) 448-81-55",
+            "email": "tufanmm@yahoo.com"
+        }
     },
     {
+        "id": 84,
         "name": "Bakı şəhəri, 43 saylı notariat ofisi",
         "loc": {
             "lat": 40.412278,
             "lng": 49.807278
         },
-        "region": "Nəsimi"
+        "region": "Nəsimi",
+        "info": {
+            "region": "Nəsimi",
+            "address": "Nəsimi rayonu, 5 m/r 20 yanvar küç.3",
+            "person_name": "Qurbanov Elşən Bəhmən oğlu",
+            "phone": "(050) 397-16-00",
+            "telephone": "(012) 431-13-57",
+            "email": "notariat43@mail.ru"
+        }
     },
     {
+        "id": 86,
         "name": "Bakı şəhəri, 44 saylı notariat ofisi",
         "loc": {
             "lat": 40.417135,
             "lng": 49.844511
         },
-        "region": "Binəqədi"
+        "region": "Binəqədi",
+        "info": {
+            "region": "Binəqədi",
+            "address": "Binəqədi rayonu, Ə.Naxçıvani küçəsi 4B",
+            "person_name": "Süleymanlı Hikmət Bəxtiyar oğlu",
+            "phone": "(050) 210-38-33",
+            "telephone": "(012) 561-11-44\n(012) 561-10-44",
+            "email": "notariatkontoru44@gmail.com"
+        }
     },
     {
+        "id": 88,
         "name": "Bakı şəhəri, 45 saylı notariat ofisi",
         "loc": {
             "lat": 40.2279692,
             "lng": 49.5817483
         },
-        "region": "Qaradağ"
+        "region": "Qaradağ",
+        "info": {
+            "region": "Qaradağ",
+            "address": "Qaradağ rayonu, Sahil qəs., Zahid Qasımov küçəsi 41",
+            "person_name": "Şükürov Tofiq Gülabbas oğlu",
+            "phone": "(050) 320-59-45",
+            "telephone": "(012) 446-13-45",
+            "email": "notar45@mail.ru"
+        }
     },
     {
+        "id": 90,
         "name": "Bakı şəhəri, 46 saylı notariat ofisi",
         "loc": {
             "lat": 40.370194,
             "lng": 49.842385
         },
-        "region": "Səbail"
+        "region": "Səbail",
+        "info": {
+            "region": "Səbail",
+            "address": "Səbail rayonu, Z.Əliyeva küç. 23",
+            "person_name": "Kərimova Tamilla Hüseynbala qızı",
+            "phone": "(050) 488-73-08",
+            "telephone": "(012) 493-63-23",
+            "email": "notariat46@gmail.com"
+        }
     },
     {
+        "id": 92,
         "name": "Bakı şəhəri, 48 saylı notariat ofisi",
         "loc": {
             "lat": 40.447361,
             "lng": 49.775306
         },
-        "region": "Binəqədi"
+        "region": "Binəqədi",
+        "info": {
+            "region": "Binəqədi",
+            "address": "Binəqədi rayonu, Xırdalan şossesi 4",
+            "person_name": "Hüseynov Səadət Eldar oğlu",
+            "phone": "(055) 232-11-01",
+            "telephone": "(012) 342-84-44",
+            "email": "notariatkontoru@gmail.com"
+        }
     },
     {
+        "id": 94,
         "name": "Bakı şəhəri, 50 saylı notariat ofisi",
         "loc": {
             "lat": 40.418611,
             "lng": 49.931944
         },
-        "region": "Nizami"
+        "region": "Nizami",
+        "info": {
+            "region": "Nizami",
+            "address": "Nizami rayonu, A. Manafov küç 16",
+            "person_name": "Rəhmanov Kənan Akif oğlu",
+            "phone": "(050) 368-62-62",
+            "telephone": "(012) 421-21-09",
+            "email": "notariat50@gmail.com"
+        }
     },
     {
+        "id": 96,
         "name": "Bakı şəhəri, 51 saylı notariat ofisi",
         "loc": {
             "lat": 40.403658,
             "lng": 49.837039
         },
-        "region": "Nərimanov"
+        "region": "Nərimanov",
+        "info": {
+            "region": "Nərimanov",
+            "address": "Nərimanov rayonu, Azadlıq prospekti 132",
+            "person_name": "Kərimov Üzeyir Feyruz oğlu",
+            "phone": "(050) 200-00-42",
+            "telephone": "(012) 541-21-68",
+            "email": "notariat51@mail.ru"
+        }
     },
     {
+        "id": 98,
         "name": "Bakı şəhəri, 52 saylı notariat ofisi",
         "loc": {
             "lat": 40.397889,
             "lng": 49.952694
         },
-        "region": "Nizami"
+        "region": "Nizami",
+        "info": {
+            "region": "Nizami",
+            "address": "Nizami rayonu, Q. Qarayev prospekti 115/9",
+            "person_name": "Zeynalov Elçin Səmədağa oğlu",
+            "phone": "(050) 214-37-51",
+            "telephone": "(012) 374-78-08\n(012) 376-78-08",
+            "email": "e.s.zeynalov@gmail.com"
+        }
     },
     {
+        "id": 100,
         "name": "Bakı şəhəri, 53 saylı notariat ofisi",
         "loc": {
             "lat": 40.369873,
             "lng": 49.817829
         },
-        "region": "Yasamal"
+        "region": "Yasamal",
+        "info": {
+            "region": "Yasamal",
+            "address": "Yasamal rayonu, Ə.Ələkbərov 528-ci məhəllə ev E",
+            "person_name": "Hüseynov Əli Abdulhüseyn oğlu\nƏləkbərova Səma Rafiq qızı",
+            "phone": "(050) 225-44-14 (050) 480-07-02",
+            "telephone": "(012) 538-44-14\n(012) 538-44-12",
+            "email": "notariat53@gmail.com"
+        }
     },
     {
+        "id": 102,
         "name": "Bakı şəhəri, 54 saylı notariat ofisi",
         "loc": {
             "lat": 40.39352,
             "lng": 49.838356
         },
-        "region": "Nəsimi"
+        "region": "Nəsimi",
+        "info": {
+            "region": "Nəsimi",
+            "address": "Nəsimi rayonu, Xan Şuşinski küçəsi 12",
+            "person_name": "Xankişiyev Simran Bəylər oğlu",
+            "phone": "(050) 211-19-39",
+            "telephone": "(012) 441-38-59\n(012) 441-11-62",
+            "email": "notariat54@gmail.com"
+        }
     },
     {
-        "name": "1 saylı Bakı ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 104,
+        "name": "1 saylı Bakı \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.399022,
             "lng": 49.835039
         },
-        "region": "Nərimanov"
+        "region": "Nərimanov",
+        "info": {
+            "region": "Nərimanov",
+            "address": "Nərimanov rayonu, Ak.Həsən Əliyev küçəsi 36",
+            "person_name": "Səmədov Natiq Mirzəxan oğlu\nQasımova Aytəkin Eldar qızı\n\tZərgərov Oqtay Əziz oğlu",
+            "phone": "(050) 311-55-25 (055) 550-57-11 (050) 214-59-36",
+            "telephone": "(012) 108",
+            "email": "asan1.notariat@gmail.com"
+        }
     },
     {
-        "name": "2 saylı Bakı ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 106,
+        "name": "2 saylı Bakı \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.37925,
             "lng": 49.879328
         },
-        "region": "Xətai"
+        "region": "Xətai",
+        "info": {
+            "region": "Xətai",
+            "address": "Xətai rayonu, Nobel prospekti 23",
+            "person_name": "Vəliyev Hikmət Yusif oğlu\n\tMəmmədov Hüseyn Hüseynağa oğlu Tağızadə Bəsti Əsgər qızı (TƏQAÜD",
+            "phone": "(050) 210-44-95 (055) 757-11-71 (050) 216-58-79",
+            "telephone": "(012) 108",
+            "email": "bakuasan2.nk@gmail.com"
+        }
     },
     {
-        "name": "3 saylı Bakı ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 108,
+        "name": "3 saylı Bakı \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.378995,
             "lng": 49.804176
         },
-        "region": "Yasamal"
+        "region": "Yasamal",
+        "info": {
+            "region": "Yasamal",
+            "address": "Yasamal rayonu, A. M. Şərifzadə küçəsi 39",
+            "person_name": "Əliyeva Xuraman Rəfail qızı\nHüseynzadə Kəmalə Nadir qızı\nŞahgəldiyev Rasim Mövsüm oğlu",
+            "phone": "(050) 307-00-50 (050) 240-09-39 (050) 385-41-36",
+            "telephone": "(012) 108",
+            "email": "xuramannot@gmail.com                            kh41@mail.ru                            sharamov@mail.ru"
+        }
     },
     {
-        "name": "4 saylı Bakı ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 110,
+        "name": "4 saylı Bakı \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.420981,
             "lng": 49.969218
         },
-        "region": "Sabunçu"
+        "region": "Sabunçu",
+        "info": {
+            "region": "Sabunçu",
+            "address": "Sabunçu rayonu, Sülh küçəsi 197",
+            "person_name": "Hacıyeva Hicran Qismət qızı\nHəbibbəyli Sidqi Yaqub oğlu\nMehdiyev Babək Mirzağa oğlu",
+            "phone": "(055) 641-41-00 (077) 302-02-02 (050) 215-56-61",
+            "telephone": "(012) 108",
+            "email": " asan4notariat@gmail.com"
+        }
     },
     {
-        "name": "5 saylı Bakı ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 112,
+        "name": "5 saylı Bakı \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.41769,
             "lng": 49.908461
         },
-        "region": "Nizami"
+        "region": "Nizami",
+        "info": {
+            "region": "Nizami",
+            "address": "Nizami rayonu, H. Əliyev prospekti 115",
+            "person_name": "Gülməmmədova Nərmin Kamal qızı\n\tZülfüqarov Ramin Zülfüqar oğlu\n\tİsmayılov Elşən Əyyub oğlu",
+            "phone": "(050) 211-43-49 (050) 505-01-50 (050) 555-22-88",
+            "telephone": "(012) 108",
+            "email": "notariat5@mail.ru"
+        }
     },
     {
+        "id": 114,
         "name": "Əmlak Xidmətləri Məkanında notariat ofisi",
         "loc": {
             "lat": 40.416235,
             "lng": 49.8998
         },
-        "region": "Xətai"
+        "region": null,
+        "info": null
     },
     {
+        "id": 116,
         "name": "Abşeron rayon 1 saylı notariat ofisi",
         "loc": {
             "lat": 40.449433,
             "lng": 49.750747
         },
-        "region": "Abşeron"
+        "region": "Abşeron",
+        "info": {
+            "region": "Abşeron",
+            "address": "Xırdalan şəhəri, H.Əliyev pr.245",
+            "person_name": "İslamov Bahadur Sabir oğlu",
+            "phone": "(050) 215-27-67",
+            "telephone": "(012) 342-76-03",
+            "email": "absheron1nk@gmail.com"
+        }
     },
     {
+        "id": 118,
         "name": "Abşeron rayon 2 saylı notariat ofisi",
         "loc": {
             "lat": 40.458639,
             "lng": 49.743722
         },
-        "region": "Abşeron"
+        "region": "Abşeron",
+        "info": {
+            "region": "Abşeron",
+            "address": "Xırdalan şəhəri, 26-cı məhəllə",
+            "person_name": "Məsimova Günay İsa qızı",
+            "phone": "(055) 765-33-00",
+            "telephone": "(012) 349-10-00",
+            "email": "absheron2notariatofis@gmail.com abseronnk@gmail.com"
+        }
     },
     {
+        "id": 120,
         "name": "Astara rayon notariat ofisi",
         "loc": {
             "lat": 38.44975,
             "lng": 48.875
         },
-        "region": "Astara"
+        "region": "Astara",
+        "info": {
+            "region": "Astara",
+            "address": "Azərbaycan pr. 15",
+            "person_name": "Mircavadov Cavid Fəxrəddin oğlu",
+            "phone": "(050) 512-31-02",
+            "telephone": "(02522) 5-15-74",
+            "email": "astara1nk@gmail.com  "
+        }
     },
     {
-        "name": "Ağcabədi Regional ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 122,
+        "name": "Ağcabədi Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.055721,
             "lng": 47.416697
         },
-        "region": "Ağcabədi"
+        "region": "Ağcabədi",
+        "info": {
+            "region": "Ağcabədi",
+            "address": "Ağcabədi şəhəri, Nəsimi küçəsi",
+            "person_name": "Bayramov Tural Adilxan oğlu",
+            "phone": "(050) 314-55-44",
+            "telephone": "(012) 108",
+            "email": "agcabedirdnk@mail.ru\n"
+        }
     },
     {
+        "id": 124,
         "name": "Ağdam rayon dövlət notariat ofisi",
         "loc": {
             "lat": 40.158083,
             "lng": 47.166
         },
-        "region": "Ağdam"
+        "region": "Ağdam",
+        "info": {
+            "region": "Ağdam",
+            "address": "Quzanlı qəs. Z.Əliyeva küç.",
+            "person_name": "Əliyev Məmməd Nizami oğlu",
+            "phone": "",
+            "telephone": "(02632) 5-07-39",
+            "email": "eliyevmemmed212@gmail.com"
+        }
     },
     {
+        "id": 126,
         "name": "Ağdaş rayon notariat ofisi",
         "loc": {
             "lat": 40.645083,
             "lng": 47.472528
         },
-        "region": "Ağdaş"
+        "region": "Ağdaş",
+        "info": {
+            "region": "Ağdaş",
+            "address": "M.İsayev küç. 5",
+            "person_name": "Salehov Ayaz Mirməhəmməd oğlu",
+            "phone": "(050) 220-10-12",
+            "telephone": "(02023) 5-22-50",
+            "email": "ayaz_saleh@hotmail.com"
+        }
     },
     {
+        "id": 128,
         "name": "Ağstafa rayon notariat ofisi",
         "loc": {
             "lat": 41.113944,
             "lng": 45.444556
         },
-        "region": "Ağstafa"
+        "region": "Ağstafa",
+        "info": {
+            "region": "Ağstafa",
+            "address": "H. Əliyev pr. 26",
+            "person_name": "Musayev Sabit Sabir oğlu",
+            "phone": "(050) 643-88-11",
+            "telephone": "(02222) 5-21-85",
+            "email": "agstafank@gmail.com "
+        }
     },
     {
+        "id": 130,
         "name": "Ağsu rayon notariat ofisi",
         "loc": {
             "lat": 40.564667,
             "lng": 48.392917
         },
-        "region": "Ağsu"
+        "region": "Ağsu",
+        "info": {
+            "region": "Ağsu",
+            "address": "Səməd Vurğun küçəsi, İnzibati bina",
+            "person_name": "Acalov Emil İsmixan oğlu",
+            "phone": "(055) 621-41-41",
+            "telephone": "(02022) 6-59-95",
+            "email": "agsu.notariat@gmail.com"
+        }
     },
     {
+        "id": 132,
         "name": "Beyləqan rayonu 1 saylı notariat ofisi",
         "loc": {
             "lat": 39.775222,
             "lng": 47.622417
         },
-        "region": "Beyləqan"
+        "region": "Beyləqan",
+        "info": {
+            "region": "Beyləqan",
+            "address": "Rəsulzadə küç. 18",
+            "person_name": "Qasımov Cəsarət Məmiş",
+            "phone": "(050) 421-20-22",
+            "telephone": "(02122) 5-25-72",
+            "email": "cesaret.qasımov@mail.ru"
+        }
     },
     {
-        "name": "Balakən Regional ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 134,
+        "name": "Balakən Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 41.7099303,
             "lng": 46.4144505
         },
-        "region": "Balakən"
+        "region": null,
+        "info": null
     },
     {
-        "name": "Bərdə Regional ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 136,
+        "name": "Bərdə Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.394262,
             "lng": 47.124025
         },
-        "region": "Bərdə"
+        "region": "Bərdə",
+        "info": {
+            "region": "Bərdə",
+            "address": "Bərdə şəhəri, Heydər Əliyev prospekti 100",
+            "person_name": "Həsənzədə Mərdan Əli oğlu\nAtakişiyeva Tamaşa Mehdiqulu qızı",
+            "phone": "(050) 221-29-30 (050) 317-06-84",
+            "telephone": "(012) 108",
+            "email": "berdenotarius@mail.ru  "
+        }
     },
     {
+        "id": 138,
         "name": "Biləsuvar rayon notariat ofisi",
         "loc": {
             "lat": 39.455694,
             "lng": 48.543583
         },
-        "region": "Biləsuvar"
+        "region": "Biləsuvar",
+        "info": {
+            "region": "Biləsuvar",
+            "address": "H.Əliyev küç. 41",
+            "person_name": "Məmmədov Xanoğlan Rzaqulu oğlu",
+            "phone": "(050) 316-61-42",
+            "telephone": "(02529) 5-12-52",
+            "email": "bilesuvar.notariatkontoru@mail.ru"
+        }
     },
     {
+        "id": 140,
         "name": "Cəlilabad rayon 1 saylı notariat ofisi",
         "loc": {
             "lat": 39.209917,
             "lng": 48.500722
         },
-        "region": "Cəlilabad"
+        "region": "Cəlilabad",
+        "info": {
+            "region": "Cəlilabad",
+            "address": "H.Əliyev pr.",
+            "person_name": "Fərəcov Lətif Fərzulla oğlu",
+            "phone": "(055) 587-23-20",
+            "telephone": "(02524) 5-37-55",
+            "email": "celilabad1sayli@gmail.com"
+        }
     },
     {
+        "id": 142,
         "name": "Daşkəsən rayon dövlət notariat ofisi",
         "loc": {
             "lat": 40.524861,
             "lng": 46.079472
         },
-        "region": "Daşkəsən"
+        "region": "Daşkəsən",
+        "info": {
+            "region": "Daşkəsən",
+            "address": "H.Əliyev pr. 1",
+            "person_name": "Qurbanov Abbas Cəbrayıl oğlu",
+            "phone": "",
+            "telephone": "(02221) 5-51-86",
+            "email": "daskesendnk@gmail.com"
+        }
     },
     {
+        "id": 144,
         "name": "Füzuli rayon dövlət notariat ofisi",
         "loc": {
             "lat": 39.566362,
             "lng": 47.583678
         },
-        "region": "Füzuli"
+        "region": "Füzuli",
+        "info": {
+            "region": "Füzuli",
+            "address": "Balabəhmənli kəndi",
+            "person_name": "İbadullayev Fəxrəddin Tərxan oğlu",
+            "phone": "",
+            "telephone": "(02631) 5-00-87",
+            "email": "fizulidnk@gmail.com"
+        }
     },
     {
+        "id": 146,
         "name": "Gədəbəy rayon notariat ofisi",
         "loc": {
             "lat": 40.570444,
             "lng": 45.811306
         },
-        "region": "Gədəbəy"
+        "region": "Gədəbəy",
+        "info": {
+            "region": "Gədəbəy",
+            "address": "M.Ə.Rəsulzadə küç.",
+            "person_name": "İsmayılova Telli İsa qızı",
+            "phone": "(050) 620-53-46",
+            "telephone": "(02232) 6-47-05",
+            "email": "gedebeynotariat1@mail.ru"
+        }
     },
     {
-        "name": "Gəncə ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 148,
+        "name": "Gəncə \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.691767,
             "lng": 46.367172
         },
-        "region": "Gəncə"
+        "region": "Gəncə",
+        "info": {
+            "region": "Gəncə",
+            "address": "Gəncə şəhəri, H.Əliyev prospekti, 269",
+            "person_name": "Talıbov Məhərrəm Məmməd oğlu\n\tAğcayev Zülfüqar Möhübbət oğlu",
+            "phone": "(055) 872-63-93 (050) 333-00-59",
+            "telephone": "(012) 108",
+            "email": "genceasan.not@mail.ru"
+        }
     },
     {
+        "id": 150,
         "name": "Gəncə rayon 1 saylı notariat ofisi",
         "loc": {
             "lat": 40.677083,
             "lng": 46.357
         },
-        "region": "Gəncə"
+        "region": "Gəncə",
+        "info": {
+            "region": "Gəncə",
+            "address": "Cavadxan küç. 53",
+            "person_name": "Əliyev Elşən Şubay oğlu",
+            "phone": "(070) 295-19-60",
+            "telephone": "(02225) 6-13-50",
+            "email": "gence_1saylinotariatofisi@mail.ru"
+        }
     },
     {
+        "id": 152,
         "name": "Gəncə rayon 2 saylı notariat ofisi",
         "loc": {
             "lat": 40.664639,
             "lng": 46.357611
         },
-        "region": "Gəncə"
+        "region": "Gəncə",
+        "info": {
+            "region": "Gəncə",
+            "address": "B. Əliyev küçəsi ilə Nəzmi küçəsinin kəsişməsində",
+            "person_name": "İmanov Nəsib Hüseynqulu oğlu",
+            "phone": "(050) 320-85-84",
+            "telephone": "(02225) 3-12-67",
+            "email": "gence2nk@mail.ru"
+        }
     },
     {
+        "id": 154,
         "name": "Gəncə rayon 3 saylı notariat ofisi",
         "loc": {
             "lat": 40.6825,
             "lng": 46.382389
         },
-        "region": "Gəncə"
+        "region": "Gəncə",
+        "info": {
+            "region": "Gəncə",
+            "address": "D. Qorqud küç. 19a",
+            "person_name": "Nağıyev Sahib Səyyad oğlu",
+            "phone": "(050) 328-39-91",
+            "telephone": "(02225) 7-80-84",
+            "email": "nagiyevsahibganja@gmail.com"
+        }
     },
     {
+        "id": 156,
         "name": "Gəncə rayon 5 saylı notariat ofisi",
         "loc": {
             "lat": 40.642278,
             "lng": 46.342139
         },
-        "region": "Gəncə"
+        "region": "Gəncə",
+        "info": {
+            "region": "Gəncə",
+            "address": "Atatürk prospekti 13",
+            "person_name": "Ələkbərov Aris Elman oğlu",
+            "phone": "(050) 370-28-22",
+            "telephone": "(022) 265-02-80",
+            "email": "gence5nk@gmail.com"
+        }
     },
     {
+        "id": 158,
         "name": "Goranboy rayon notariat ofisi",
         "loc": {
             "lat": 40.608583,
             "lng": 46.790861
         },
-        "region": "Goranboy"
+        "region": "Goranboy",
+        "info": {
+            "region": "Goranboy",
+            "address": "D.Qorqud küç. 15",
+            "person_name": "Aslanov Xəqani Aslan oğlu",
+            "phone": "(050) 644-62-00",
+            "telephone": "(02224) 5-31-68",
+            "email": "notariatgoranboy@mail.ru"
+        }
     },
     {
+        "id": 160,
         "name": "Göyçay rayon notariat ofisi",
         "loc": {
             "lat": 40.651513,
             "lng": 47.741651
         },
-        "region": "Göyçay"
+        "region": "Göyçay",
+        "info": {
+            "region": "Göyçay",
+            "address": "N.Nərimanov küç. 54",
+            "person_name": "Nəcəfli Polad Əliağa",
+            "phone": "(050) 350-48-37",
+            "telephone": "(02027) 4-07-86",
+            "email": "poladnacafli@gmail.com"
+        }
     },
     {
+        "id": 162,
         "name": "Göygöl rayon notariat ofisi",
         "loc": {
             "lat": 40.589861,
             "lng": 46.318583
         },
-        "region": "Göygöl"
+        "region": "Göygöl",
+        "info": {
+            "region": "Göygöl",
+            "address": "H.Əliyev pr. 36",
+            "person_name": "Eyvazov Aqil Əhəd oğlu",
+            "phone": "(055) 200-80-75",
+            "telephone": "(02220) 5-23-76",
+            "email": "goygolnotar@gmail.com"
+        }
     },
     {
+        "id": 164,
         "name": "Hacıqabul rayon notariat ofisi",
         "loc": {
             "lat": 40.0434448,
             "lng": 48.9382147
         },
-        "region": "Hacıqabul"
+        "region": "Hacıqabul",
+        "info": {
+            "region": "Hacıqabul",
+            "address": "H.Həmidov küç 115",
+            "person_name": "Səfərov Ruslan Sultan oğlu",
+            "phone": "(055) 791-02-22",
+            "telephone": "(02120) 4-41-88",
+            "email": "haciqabulnk@gmail.com"
+        }
     },
     {
-        "name": "İmişli Regional ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 166,
+        "name": "İmişli Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 39.878371,
             "lng": 48.084176
         },
-        "region": "İmişli"
+        "region": "İmişli",
+        "info": {
+            "region": "İmişli",
+            "address": "İmişli rayon, S.Fətəliyev küçəsi 1",
+            "person_name": "Zaidov Zəfər Rza oğlu\n\tNəsirov Seymur Qulamhüseyn oğlu",
+            "phone": "(050) 357-39-80 (050) 533-81-81",
+            "telephone": "(012) 108",
+            "email": "zeferzaidov20@gmail.com seymurnesirov20@gmail.com"
+        }
     },
     {
+        "id": 168,
         "name": "İsmayıllı rayon notariat ofisi",
         "loc": {
             "lat": 40.783833,
             "lng": 48.144056
         },
-        "region": "İsmayıllı"
+        "region": "Ismayıllı",
+        "info": {
+            "region": "Ismayıllı",
+            "address": "H.Əliyev prospekti 31a",
+            "person_name": "Cabbarov Abdulla Nurqələm oğlu",
+            "phone": "(050) 335-87-88",
+            "telephone": "(02028) 5-33-53",
+            "email": "ismayilli.notary@mail.ru"
+        }
     },
     {
-        "name": "Kürdəmir ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 170,
+        "name": "Kürdəmir \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.322051,
             "lng": 48.191634
         },
-        "region": "Kürdəmir"
+        "region": "Kürdəmir",
+        "info": {
+            "region": "Kürdəmir",
+            "address": "H.Əliyev pr. 1",
+            "person_name": "Əfəndiyev Elnur Mehman oğlu Sarıyev Rauf Həsən oğlu",
+            "phone": "(050) 554-94-94 (050) 211-44-75",
+            "telephone": "(012) 108",
+            "email": "kurdemir.notariat.kontoru@mail.ru "
+        }
     },
     {
+        "id": 172,
         "name": "Lerik rayon dövlət notariat ofisi",
         "loc": {
             "lat": 38.775444,
             "lng": 48.416694
         },
-        "region": "Lerik"
+        "region": "Lerik",
+        "info": {
+            "region": "Lerik",
+            "address": "H.Əliyev meydanı 9",
+            "person_name": "Mustafayev Mustafa Nuru oğlu",
+            "phone": "",
+            "telephone": "(02527) 5-24-31",
+            "email": "lerikdnk@gmail.com"
+        }
     },
     {
+        "id": 174,
         "name": "Lənkəran rayon 1 saylı notariat ofisi",
         "loc": {
             "lat": 38.75325,
             "lng": 48.850361
         },
-        "region": "Lənkəran"
+        "region": "Lənkəran",
+        "info": {
+            "region": "Lənkəran",
+            "address": "H. Aslanov küçəsi 60",
+            "person_name": "İsmayılov Səfər Yusifəli oğlu",
+            "phone": "(050) 204-88-27",
+            "telephone": "(02525) 5-47-03",
+            "email": "lenkaran.nk.si@mail.ru"
+        }
     },
     {
-        "name": "Masallı Regional ASAN Xidmət mərkəzində notariat ofisi ",
+        "id": 176,
+        "name": "Masallı Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 39.026994,
             "lng": 48.68947
         },
-        "region": "Masallı"
+        "region": "Masallı",
+        "info": {
+            "region": "Masallı",
+            "address": "B+F37",
+            "person_name": "İbrahimov Əlövsət Ağakişi oğlu\n\tSadıqov Vüsal Akif oğlu",
+            "phone": "(050) 356-05-57 (050) 235-11-59",
+            "telephone": "(012) 108",
+            "email": "masalli.notariat@gmail.com "
+        }
     },
     {
-        "name": "Mingəçevir Regional ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 178,
+        "name": "Mingəçevir Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.771281,
             "lng": 47.034907
         },
-        "region": "Mingəçevir"
+        "region": "Mingəçevir",
+        "info": {
+            "region": "Mingəçevir",
+            "address": "B+F37",
+            "person_name": "Hüseynov Elxan İlyas oğlu\n\tRzayev Nidayət Bəşir oğlu",
+            "phone": "(050) 386-80-80 (050) 256-02-52",
+            "telephone": "(012) 108",
+            "email": "huseynovelxan1972@gmail.com nidayet.rzayev@mail.ru"
+        }
     },
     {
-        "name": "Naftalan rayon dövlət notariat ofisi",
+        "id": 180,
+        "name": "﻿Naftalan rayon dövlət notariat ofisi",
         "loc": {
             "lat": 40.507528,
             "lng": 46.824194
         },
-        "region": "Naftalan"
+        "region": null,
+        "info": null
     },
     {
+        "id": 182,
         "name": "Neftçala rayon dövlət notariat ofisi",
         "loc": {
             "lat": 39.390028,
             "lng": 49.246167
         },
-        "region": "Neftçala"
+        "region": "Neftçala",
+        "info": {
+            "region": "Neftçala",
+            "address": "H.Əliyev pr 30",
+            "person_name": "Nəcəfova Səadət Əşrəf qızı",
+            "phone": "",
+            "telephone": "(02126) 3-33-90",
+            "email": "neftchaladnk@gmail.com"
+        }
     },
     {
+        "id": 184,
         "name": "Oğuz rayon notariat ofisi",
         "loc": {
             "lat": 41.073,
             "lng": 47.464611
         },
-        "region": "Oğuz"
+        "region": "Oğuz",
+        "info": {
+            "region": "Oğuz",
+            "address": "Xətai küçəsi 6",
+            "person_name": "Məmmədov Vaqif Yaqub oğlu",
+            "phone": "(070) 511-90-00",
+            "telephone": "(02421) 5-24-81",
+            "email": "oguznotariat@mail.ru"
+        }
     },
     {
+        "id": 186,
         "name": "Qax rayon notariat ofisi",
         "loc": {
             "lat": 41.422821,
             "lng": 46.91341
         },
-        "region": "Qax"
+        "region": null,
+        "info": null
     },
     {
+        "id": 188,
         "name": "Qazax rayon notariat ofisi",
         "loc": {
             "lat": 41.090111,
             "lng": 45.36
         },
-        "region": "Qazax"
+        "region": "B+F37",
+        "info": {
+            "region": "B+F37",
+            "address": "Z.Tağıyev küç.20",
+            "person_name": "Tağıyev İlyas Nizami oğlu",
+            "phone": "(070) 312-02-72",
+            "telephone": "(02229) 5-10-18",
+            "email": "qazax-notary@inbox.ru "
+        }
     },
     {
-        "name": "Qəbələ Regional ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 190,
+        "name": "Qəbələ Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.977591,
             "lng": 47.831397
         },
-        "region": "Qəbələ"
+        "region": "Qəbələ",
+        "info": {
+            "region": "Qəbələ",
+            "address": "Qəbələ şəhəri, E.Kərimov küç. 79",
+            "person_name": "Qurban Tamerlan Abdulqafur oğlu\n\tOsmanlı Saday Hüseyn oğlu",
+            "phone": "(055) 220-45-80 (055) 330-20-50",
+            "telephone": "(012) 108",
+            "email": "asan.qebele@mail.ru"
+        }
     },
     {
+        "id": 192,
         "name": "Qobustan rayon notariat ofisi",
         "loc": {
             "lat": 40.534306,
             "lng": 48.928167
         },
-        "region": "Qobustan"
+        "region": "Qobustan",
+        "info": {
+            "region": "Qobustan",
+            "address": "Mərəzə qəsəbəsi, H.Əliyev pr. 118",
+            "person_name": "Yusifov Şamil Məzail oğlu",
+            "phone": "(050) 340-36-59",
+            "telephone": "(02024) 5-00-70",
+            "email": "qobustandnk@gmail.com"
+        }
     },
     {
-        "name": "Quba Regional ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 194,
+        "name": "Quba Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 41.364554,
             "lng": 48.555407
         },
-        "region": "Quba"
+        "region": "Quba",
+        "info": {
+            "region": "Quba",
+            "address": "Quba şəhəri, H.Əliyev prospekti 32-33-cü məhəllə",
+            "person_name": "Haqverdiyev Rəşad Fərhad oğlu Məmmədov Süleyman Nəriman oğlu",
+            "phone": "(050) 210-14-36 (050) 288-32-10",
+            "telephone": "(012) 108",
+            "email": "qubaasan_notariat@mail.ru "
+        }
     },
     {
+        "id": 196,
         "name": "Qusar rayon notariat ofisi",
         "loc": {
             "lat": 41.430111,
             "lng": 48.433694
         },
-        "region": "Qusar"
+        "region": "Qusar",
+        "info": {
+            "region": "Qusar",
+            "address": "N. Şərifov küçəsi 14",
+            "person_name": "Tağıyev Dəyanət Adgözəl oğlu",
+            "phone": "(050) 220-97-91",
+            "telephone": "(02338) 5-24-31",
+            "email": "qusarnotariat@mail.ru "
+        }
     },
     {
+        "id": 198,
         "name": "Saatlı rayon notariat ofisi",
         "loc": {
             "lat": 39.938694,
             "lng": 48.371028
         },
-        "region": "Saatlı"
+        "region": "Saatlı",
+        "info": {
+            "region": "Saatlı",
+            "address": "H.Əliyev pr 137",
+            "person_name": "Xudiyev Pərvin Etibar oğlu",
+            "phone": "(050) 222-44-80",
+            "telephone": "(02128) 5-35-32",
+            "email": "xudiyev.p@mail.ru"
+        }
     },
     {
-        "name": "Sabirabad Regional ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 200,
+        "name": "Sabirabad Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.017357,
             "lng": 48.476714
         },
-        "region": "Sabirabad"
+        "region": "Sabirabad",
+        "info": {
+            "region": "Sabirabad",
+            "address": "Sabirabad şəhəri, H.Əliyev pr. 128",
+            "person_name": "Qurbanov Faiq Ağamoğlan oğlu\n\tZeynalov Mühəddin Hacı oğlu",
+            "phone": "(050) 378-76-22 (055) 648-48-48",
+            "telephone": "(012) 108",
+            "email": "sabirabadasan-nk@mail.ru "
+        }
     },
     {
+        "id": 202,
         "name": "Şabran rayon notariat ofisi",
         "loc": {
             "lat": 41.199778,
             "lng": 48.9835
         },
-        "region": "Şabran"
+        "region": "Şabran",
+        "info": {
+            "region": "Şabran",
+            "address": "M.Ə.Rəsulzadə küç. 39",
+            "person_name": "Hüseynov Azay Xasay oğlu",
+            "phone": "(050) 335-35-05",
+            "telephone": "(02335) 3-24-14",
+            "email": "azay.202@mail.ru"
+        }
     },
     {
+        "id": 204,
         "name": "Salyan rayon 2 saylı notariat ofisi",
         "loc": {
             "lat": 39.606389,
             "lng": 48.985778
         },
-        "region": "Salyan"
+        "region": "Salyan",
+        "info": {
+            "region": "Salyan",
+            "address": "H. Əliyev küçəsi 3",
+            "person_name": "Hüseynov Mirismayıl Mirmahmud oğlu",
+            "phone": "(050) 316-00-52",
+            "telephone": "(02521) 5-22-27",
+            "email": "mirismayil_huseynov@mail.ru"
+        }
     },
     {
-        "name": "Şamaxı Regional ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 206,
+        "name": "Şamaxı Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.613761,
             "lng": 48.664814
         },
-        "region": "Şamaxı"
+        "region": "Şamaxı",
+        "info": {
+            "region": "Şamaxı",
+            "address": "Gənclər küçəsi 22",
+            "person_name": "Eyyubov Yaşar Nazim oğlu\nSəfərli Səfər Həkimxan oğlu",
+            "phone": "(055) 887-92-22 (050) 866-66-63",
+            "telephone": "(012) 108",
+            "email": "shamaxi.notariat@mail.ru sefer.seferli6663@gmail.com"
+        }
     },
     {
+        "id": 208,
         "name": "Samux rayon notariat ofisi",
         "loc": {
             "lat": 40.757462,
             "lng": 46.398856
         },
-        "region": "Samux"
+        "region": "Samux",
+        "info": {
+            "region": "Samux",
+            "address": "H.Əliyev pr. 52",
+            "person_name": "Məhərrəmov Elnur Mirbəşir oğlu",
+            "phone": "(055) 311-30-30",
+            "telephone": "(02227) 5-18-12",
+            "email": "samux.notariat@bk.ru"
+        }
     },
     {
-        "name": "Şəki Regional ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 210,
+        "name": "Şəki Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 41.156678,
             "lng": 47.181159
         },
-        "region": "Şəki"
+        "region": "Şəki",
+        "info": {
+            "region": "Şəki",
+            "address": "Şəki, Z.Əliyeva küçəsi 4",
+            "person_name": "Nəsibov Sərdar Namiq oğlu                Səmədov Xətai Hacı oğlu",
+            "phone": "(055) 304-55-99 (050) 229-55-57",
+            "telephone": "(012) 108",
+            "email": "shekinotariat@mail.ru kssamed@gmail.com"
+        }
     },
     {
+        "id": 212,
         "name": "Şəmkir rayon 1 saylı notariat ofisi",
         "loc": {
             "lat": 40.828611,
             "lng": 46.020806
         },
-        "region": "Şəmkir"
+        "region": "Şəmkir",
+        "info": {
+            "region": "Şəmkir",
+            "address": "Nizami küçəsi 5",
+            "person_name": "Qurbanov Siyavuş Heydər oğlu",
+            "phone": "(055) 212-62-06",
+            "telephone": "(02230) 5-36-20",
+            "email": "notariusnoter@gmail.com"
+        }
     },
     {
+        "id": 214,
         "name": "Şirvan şəhər 1 saylı notariat ofisi",
         "loc": {
             "lat": 39.957056,
             "lng": 48.939306
         },
-        "region": "Şirvan"
+        "region": null,
+        "info": null
     },
     {
+        "id": 216,
         "name": "Siyəzən rayon dövlət notariat ofisi",
         "loc": {
             "lat": 41.075333,
             "lng": 49.114861
         },
-        "region": "Siyəzən"
+        "region": "Siyəzən",
+        "info": {
+            "region": "Siyəzən",
+            "address": "T. İsmayılov küçəsi 1A",
+            "person_name": "Muradov Kamran Murad oğlu",
+            "phone": "həvalə",
+            "telephone": "(02330) 4-07-23",
+            "email": "siyezendnk@gmail.com"
+        }
     },
     {
-        "name": "Sumqayıt ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 218,
+        "name": "Sumqayıt \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.583556,
             "lng": 49.679861
         },
-        "region": "Sumqayıt"
+        "region": "Sumqayıt",
+        "info": {
+            "region": "Sumqayıt",
+            "address": "Sumqayıt şəhəri, 15-ci məhəllə, Bakı küçəsi ev 43",
+            "person_name": "Əhmədli Baba Məhəmməd oğlu\n\tHacıyev Azər Sədrəddin oğlu\n\tƏmirəliyev Əmirəli Mübariz oğlu",
+            "phone": "(050) 263-55-54 (Ə.B.) (050) 335-74-56 (Ə.Ə.)",
+            "telephone": "(012) 108",
+            "email": "baba.ehmedli@mail.ru amirali.amiraliyev@gmail.com"
+        }
     },
     {
+        "id": 220,
         "name": "Sumqayıt şəhər 1 saylı notariat ofisi",
         "loc": {
             "lat": 40.583556,
             "lng": 49.679861
         },
-        "region": "Sumqayıt"
+        "region": null,
+        "info": null
     },
     {
+        "id": 222,
         "name": "Sumqayıt şəhər 3 saylı notariat ofisi",
         "loc": {
             "lat": 40.568306,
             "lng": 49.693611
         },
-        "region": "Sumqayıt"
+        "region": null,
+        "info": null
     },
     {
+        "id": 224,
         "name": "Sumqayıt şəhər 4 saylı notariat ofisi",
         "loc": {
             "lat": 40.58448,
             "lng": 49.672089
         },
-        "region": "Sumqayıt"
+        "region": null,
+        "info": null
     },
     {
+        "id": 226,
         "name": "Tərtər rayon dövlət notariat ofisi",
         "loc": {
             "lat": 40.342389,
             "lng": 46.931944
         },
-        "region": "Tərtər"
+        "region": "Tərtər",
+        "info": {
+            "region": "Tərtər",
+            "address": "H.Əliyev pr. 46",
+            "person_name": "Rüstəmov Adil Hilal oğlu",
+            "phone": "",
+            "telephone": "(02223) 6-36-02",
+            "email": "terterdnk@gmail.com"
+        }
     },
     {
-        "name": "Tovuz ASAN Xidmət mərkəzində notariat ofisi",
+        "id": 228,
+        "name": "Tovuz \"ASAN Xidmət\" mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.981621,
             "lng": 45.655605
         },
-        "region": "Tovuz"
+        "region": "Tovuz",
+        "info": {
+            "region": "Tovuz",
+            "address": "Nizami küçəsi ev 2 m.4",
+            "person_name": "Rzayev Pənah Mehdi oğlu                           Həsənov Ramil Əliş oğlu",
+            "phone": "(050) 366-56-34 (050) 212-95-59",
+            "telephone": "(012) 108",
+            "email": "tovuzrnk@gmail.com gasanovramil@yahoo.com"
+        }
     },
     {
+        "id": 230,
         "name": "Ucar rayon notariat ofisi",
         "loc": {
             "lat": 40.509111,
             "lng": 47.649139
         },
-        "region": "Ucar"
+        "region": "Ucar",
+        "info": {
+            "region": "Ucar",
+            "address": "Nərimanov küç. 16",
+            "person_name": "Cəlalov Elman Əhliman oğlu",
+            "phone": "(050) 352-81-51",
+            "telephone": "(02020) 3-11-57",
+            "email": "ucarnk@gmail.com"
+        }
     },
     {
+        "id": 232,
         "name": "Xaçmaz rayon 1 saylı notariat ofisi",
         "loc": {
             "lat": 41.458772,
             "lng": 48.795711
         },
-        "region": "Xaçmaz"
+        "region": "Xaçmaz",
+        "info": {
+            "region": "Xaçmaz",
+            "address": "Xaçmaz şəhəri, Nəriman Nərimanov küç. bina 70",
+            "person_name": "Məmmədov Firdovsi Surətdin oğlu",
+            "phone": "(050) 302-42-22",
+            "telephone": "(02332) 5-55-40",
+            "email": "xachmaz.xnk1@gmail.com"
+        }
     },
     {
+        "id": 234,
         "name": "Xızı rayon dövlət notariat ofisi",
         "loc": {
             "lat": 40.913111,
             "lng": 49.071917
         },
-        "region": "Xızı"
+        "region": "Xızı",
+        "info": {
+            "region": "Xızı",
+            "address": "H.Əliyev pr. 41",
+            "person_name": "",
+            "phone": "",
+            "telephone": "(02331) 5-01-97",
+            "email": "xizi.duk@gmail.com"
+        }
     },
     {
+        "id": 236,
         "name": "Yardımlı rayon dövlət notariat ofisi",
         "loc": {
             "lat": 38.904667,
             "lng": 48.237333
         },
-        "region": "Yardımlı"
+        "region": "Yardımlı",
+        "info": {
+            "region": "Yardımlı",
+            "address": "Azərbaycan küçəsi 100",
+            "person_name": "Orucov Nail Hilal oğlu",
+            "phone": "",
+            "telephone": "(02520) 6-16-71",
+            "email": "nail-85-07-24@mail.ru"
+        }
     },
     {
+        "id": 238,
         "name": "Yevlax rayon 1 saylı notariat ofisi",
         "loc": {
             "lat": 40.612556,
             "lng": 47.146972
         },
-        "region": "Yevlax"
+        "region": "Yevlax",
+        "info": {
+            "region": "Yevlax",
+            "address": "H.Əliyev pr. 23",
+            "person_name": "Baxışova Gülyanaq Qulu qızı",
+            "phone": "(051) 776-45-68",
+            "telephone": "(02233) 6-46-63",
+            "email": "yevlax.1saylinotariat@mail.ru"
+        }
     },
     {
+        "id": 240,
         "name": "Zaqatala rayon 2 saylı notariat ofisi",
         "loc": {
             "lat": 41.632611,
             "lng": 46.651639
         },
-        "region": "Zaqatala"
+        "region": "Zaqatala",
+        "info": {
+            "region": "Zaqatala",
+            "address": "Zaqatala şəhəri, Xalidə Həsilova, 3",
+            "person_name": "İsgəndərova Gözəl İsgəndər qızı",
+            "phone": "(055) 579-69-22",
+            "telephone": "(02422) 5-21-75",
+            "email": "no_2_zaqatala@bk.ru"
+        }
     },
     {
+        "id": 242,
         "name": "Zərdab rayon dövlət notariat ofisi",
         "loc": {
             "lat": 40.211694,
             "lng": 47.701556
         },
-        "region": "Zərdab"
+        "region": "Zərdab",
+        "info": {
+            "region": "Zərdab",
+            "address": "R.Kərimov küç. 44",
+            "person_name": "",
+            "phone": "",
+            "telephone": "(02029) 6-67-00",
+            "email": "zerdabdnk@gmail.com"
+        }
     },
     {
+        "id": 244,
         "name": "Naxçıvan şəhəri 1 saylı notariat ofisi",
         "loc": {
             "lat": 39.199361,
             "lng": 45.415806
         },
-        "region": "Naxçıvan"
+        "region": null,
+        "info": null
     },
     {
+        "id": 246,
         "name": "Naxçıvan şəhəri 2 saylı notariat ofisi",
         "loc": {
             "lat": 39.211472,
             "lng": 45.405889
         },
-        "region": "Naxçıvan"
+        "region": null,
+        "info": null
     },
     {
+        "id": 248,
         "name": "Naxçıvan şəhəri 3 saylı notariat ofisi",
         "loc": {
             "lat": 39.191972,
             "lng": 45.40825
         },
-        "region": "Naxçıvan"
+        "region": null,
+        "info": null
     },
     {
+        "id": 250,
         "name": "Babək rayon notariat ofisi",
         "loc": {
             "lat": 39.15925,
             "lng": 45.448083
         },
-        "region": "Naxçıvan"
+        "region": null,
+        "info": null
     },
     {
+        "id": 252,
         "name": "Şərur rayon 1 saylı notariat ofisi",
         "loc": {
             "lat": 39.556167,
             "lng": 44.981083
         },
-        "region": "Naxçıvan"
+        "region": null,
+        "info": null
     },
     {
+        "id": 254,
         "name": "Şərur rayon 2 saylı notariat ofisi",
         "loc": {
             "lat": 39.558139,
             "lng": 44.988833
         },
-        "region": "Naxçıvan"
+        "region": null,
+        "info": null
     }
 ]

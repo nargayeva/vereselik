@@ -8508,6 +8508,11 @@ vue3-google-map@^0.6.0:
   dependencies:
     "@googlemaps/js-api-loader" "^1.11.1"
 
+vue3-treeselect@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/vue3-treeselect/-/vue3-treeselect-0.1.0.tgz#a1f0f498415d2ae494ec3fc3aa2a270bbeabf434"
+  integrity sha512-+c3R4MKmCsghfnRh+OrnAbR0YIKkvA4t76JDoBzaYkHsTEF8ycRQQFJGF8MA4DddY52cUdFqHiYxuO6B36YLTw==
+
 vue@^3.0.0-0:
   version "3.0.7"
   resolved "https://registry.yarnpkg.com/vue/-/vue-3.0.7.tgz#8bcff51f8be570f9e4ce8cc5f52e2ab0fe3c74a1"

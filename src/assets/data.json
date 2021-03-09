@@ -13,7 +13,7 @@
             "lat": 40.348194,
             "lng": 49.835208
         },
-        "region": null
+        "region": "Səbail"
     },
     {
         "name": "Bakı şəhəri, 3 saylı notariat ofisi",
@@ -173,7 +173,7 @@
             "lat": 40.418706,
             "lng": 49.817656
         },
-        "region": null
+        "region": "Nəsimi"
     },
     {
         "name": "Bakı şəhəri, 23 saylı notariat ofisi",
@@ -240,12 +240,13 @@
         "region": "Nizami"
     },
     {
-        "name": "﻿Bakı şəhəri, 31 saylı notariat ofisi",
+        "name": "Bakı şəhəri, 31 saylı notariat ofisi",
         "loc": {
             "lat": 40.448667,
             "lng": 50.088583
         },
-        "region": null
+        "region": "Xəzər"
+
     },
     {
         "name": "Bakı şəhəri, 32 saylı notariat ofisi",
@@ -261,7 +262,7 @@
             "lat": 40.371667,
             "lng": 50.284417
         },
-        "region": null
+        "region": "Xəzər"
     },
     {
         "name": "Bakı şəhəri, 34 saylı notariat ofisi",
@@ -416,7 +417,7 @@
         "region": "Nəsimi"
     },
     {
-        "name": "1 saylı Bakı \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "1 saylı Bakı ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.399022,
             "lng": 49.835039
@@ -424,7 +425,7 @@
         "region": "Nərimanov"
     },
     {
-        "name": "2 saylı Bakı \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "2 saylı Bakı ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.37925,
             "lng": 49.879328
@@ -432,7 +433,7 @@
         "region": "Xətai"
     },
     {
-        "name": "3 saylı Bakı \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "3 saylı Bakı ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.378995,
             "lng": 49.804176
@@ -440,7 +441,7 @@
         "region": "Yasamal"
     },
     {
-        "name": "4 saylı Bakı \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "4 saylı Bakı ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.420981,
             "lng": 49.969218
@@ -448,7 +449,7 @@
         "region": "Sabunçu"
     },
     {
-        "name": "5 saylı Bakı \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "5 saylı Bakı ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.41769,
             "lng": 49.908461
@@ -461,7 +462,7 @@
             "lat": 40.416235,
             "lng": 49.8998
         },
-        "region": null
+        "region": "Xətai"
     },
     {
         "name": "Abşeron rayon 1 saylı notariat ofisi",
@@ -488,7 +489,7 @@
         "region": "Astara"
     },
     {
-        "name": "Ağcabədi Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "Ağcabədi Regional ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.055721,
             "lng": 47.416697
@@ -536,15 +537,15 @@
         "region": "Beyləqan"
     },
     {
-        "name": "Balakən Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "Balakən Regional ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 41.7099303,
             "lng": 46.4144505
         },
-        "region": null
+        "region": "Balakən"
     },
     {
-        "name": "Bərdə Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "Bərdə Regional ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.394262,
             "lng": 47.124025
@@ -592,7 +593,7 @@
         "region": "Gədəbəy"
     },
     {
-        "name": "Gəncə \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "Gəncə ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.691767,
             "lng": 46.367172
@@ -664,7 +665,7 @@
         "region": "Hacıqabul"
     },
     {
-        "name": "İmişli Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "İmişli Regional ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 39.878371,
             "lng": 48.084176
@@ -680,7 +681,7 @@
         "region": "Ismayıllı"
     },
     {
-        "name": "Kürdəmir \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "Kürdəmir ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.322051,
             "lng": 48.191634
@@ -704,7 +705,7 @@
         "region": "Lənkəran"
     },
     {
-        "name": "Masallı Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "Masallı Regional ASAN Xidmət mərkəzində notariat ofisi ",
         "loc": {
             "lat": 39.026994,
             "lng": 48.68947
@@ -712,7 +713,7 @@
         "region": "Masallı"
     },
     {
-        "name": "Mingəçevir Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "Mingəçevir Regional ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.771281,
             "lng": 47.034907
@@ -720,12 +721,12 @@
         "region": "Mingəçevir"
     },
     {
-        "name": "﻿Naftalan rayon dövlət notariat ofisi",
+        "name": "Naftalan rayon dövlət notariat ofisi",
         "loc": {
             "lat": 40.507528,
             "lng": 46.824194
         },
-        "region": null
+        "region": "Naftalan"
     },
     {
         "name": "Neftçala rayon dövlət notariat ofisi",
@@ -749,7 +750,7 @@
             "lat": 41.422821,
             "lng": 46.91341
         },
-        "region": null
+        "region": "Qax"
     },
     {
         "name": "Qazax rayon notariat ofisi",
@@ -757,10 +758,10 @@
             "lat": 41.090111,
             "lng": 45.36
         },
-        "region": "B+F37"
+        "region": "Qazax"
     },
     {
-        "name": "Qəbələ Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "Qəbələ Regional ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.977591,
             "lng": 47.831397
@@ -776,7 +777,7 @@
         "region": "Qobustan"
     },
     {
-        "name": "Quba Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "Quba Regional ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 41.364554,
             "lng": 48.555407
@@ -800,7 +801,7 @@
         "region": "Saatlı"
     },
     {
-        "name": "Sabirabad Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "Sabirabad Regional ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.017357,
             "lng": 48.476714
@@ -824,7 +825,7 @@
         "region": "Salyan"
     },
     {
-        "name": "Şamaxı Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "Şamaxı Regional ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.613761,
             "lng": 48.664814
@@ -840,7 +841,7 @@
         "region": "Samux"
     },
     {
-        "name": "Şəki Regional \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "Şəki Regional ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 41.156678,
             "lng": 47.181159
@@ -861,7 +862,7 @@
             "lat": 39.957056,
             "lng": 48.939306
         },
-        "region": null
+        "region": "Şirvan"
     },
     {
         "name": "Siyəzən rayon dövlət notariat ofisi",
@@ -872,7 +873,7 @@
         "region": "Siyəzən"
     },
     {
-        "name": "Sumqayıt \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "Sumqayıt ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.583556,
             "lng": 49.679861
@@ -885,7 +886,7 @@
             "lat": 40.583556,
             "lng": 49.679861
         },
-        "region": null
+        "region": "Sumqayıt"
     },
     {
         "name": "Sumqayıt şəhər 3 saylı notariat ofisi",
@@ -893,7 +894,7 @@
             "lat": 40.568306,
             "lng": 49.693611
         },
-        "region": null
+        "region": "Sumqayıt"
     },
     {
         "name": "Sumqayıt şəhər 4 saylı notariat ofisi",
@@ -901,7 +902,7 @@
             "lat": 40.58448,
             "lng": 49.672089
         },
-        "region": null
+        "region": "Sumqayıt"
     },
     {
         "name": "Tərtər rayon dövlət notariat ofisi",
@@ -912,7 +913,7 @@
         "region": "Tərtər"
     },
     {
-        "name": "Tovuz \"ASAN Xidmət\" mərkəzində notariat ofisi",
+        "name": "Tovuz ASAN Xidmət mərkəzində notariat ofisi",
         "loc": {
             "lat": 40.981621,
             "lng": 45.655605
@@ -981,7 +982,7 @@
             "lat": 39.199361,
             "lng": 45.415806
         },
-        "region": null
+        "region": "Naxçıvan"
     },
     {
         "name": "Naxçıvan şəhəri 2 saylı notariat ofisi",
@@ -989,7 +990,7 @@
             "lat": 39.211472,
             "lng": 45.405889
         },
-        "region": null
+        "region": "Naxçıvan"
     },
     {
         "name": "Naxçıvan şəhəri 3 saylı notariat ofisi",
@@ -997,7 +998,7 @@
             "lat": 39.191972,
             "lng": 45.40825
         },
-        "region": null
+        "region": "Naxçıvan"
     },
     {
         "name": "Babək rayon notariat ofisi",
@@ -1005,7 +1006,7 @@
             "lat": 39.15925,
             "lng": 45.448083
         },
-        "region": null
+        "region": "Babək"
     },
     {
         "name": "Şərur rayon 1 saylı notariat ofisi",
@@ -1013,7 +1014,7 @@
             "lat": 39.556167,
             "lng": 44.981083
         },
-        "region": null
+        "region": "Naxçıvan"
     },
     {
         "name": "Şərur rayon 2 saylı notariat ofisi",
@@ -1021,6 +1022,6 @@
             "lat": 39.558139,
             "lng": 44.988833
         },
-        "region": null
+        "region": "Naxçıvan"
     }
 ]

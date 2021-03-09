@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-2">
 					<span class="banner-title">
-						İnteraktiv Məsləhət
+						İnteraktiv məsləhət
 					</span>
                 </div>
             </div>
@@ -78,7 +78,7 @@
                         <textarea class="form-control mw-5" aria-label="With textarea" placeholder="Sual"></textarea>
                     </div>
 
-                    <span class="flex-button" id="send-button">GÖNDƏR</span>
+                    <span class="flex-button-send" id="send-button">GÖNDƏR</span>
                 </form>
             </div>
         </div>

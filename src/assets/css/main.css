@@ -54,9 +54,9 @@ body {
     background-color: var(--golden-color);
  }
 
-#az {
+/* #az {
      display: none;
- }
+ } */
 
 #banner {
     display: flex;
@@ -87,7 +87,7 @@ body {
 }
 
 .flex-button:hover {
-    background-color: var(--golden-color);
+    background-color: var(--golden-color) !important;
     color: white !important;
     text-decoration: none;
 }

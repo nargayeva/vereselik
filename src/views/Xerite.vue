@@ -15,7 +15,7 @@
     <!-- Map -->
     <div class="container mt-5">
         <div class="row d-flex justify-content-between">
-            <div class="col-md-4 col-12 d-flex flex-column mb-5">
+            <div class="col-md-4 col-12 d-flex flex-column mb-3">
               <tree-select v-if="notarius_data"
                            v-model="selectedRegion"
                            option-key="name"
@@ -26,7 +26,6 @@
 "
               />
 
-
               <tree-select v-if="selectedRegion"
                            v-model="selectedNotariat"
                            option-key="name"
@@ -35,6 +34,7 @@
                            value-format="object"
                            :options="[...notarius_data].filter(d => d.region === selectedRegion.region)"
               />
+
 
 <!--                &lt;!&ndash; Regions &ndash;&gt;-->
 <!--                <select v-model="selectedRegion">-->

@@ -107,11 +107,11 @@ export default {
 .vue-treeselect__control {
   height: 38px;
   border-radius: 0;
-  border-color: $gray-300;
+  border-color: #3A7292;
 }
 
 .vue-treeselect__control-arrow {
-  color: $dark
+  color: #3A7292;
 }
 
 .error {

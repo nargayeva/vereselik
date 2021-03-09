@@ -27,11 +27,23 @@
     opacity: 0.5;
 }
 
-.flex-button {
+.flex-button-send {
+    background-color: white;
+    padding: 10px;
+    width: 70%;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
     float: right;
     width: 100px;
     color: white !important;
     background-color: var(--blue-color);
+}
+
+.flex-button-send:hover {
+    background-color: var(--golden-color) !important;
+    color: white !important;
+    text-decoration: none;
 }
 
 textarea {

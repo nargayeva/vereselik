@@ -60,46 +60,46 @@
 
             <div v-if="selectedNotariat" class="container notariat-info">
                 <div class="row pb-3 notariat-info-item">
-                    <div class="col-5">
+                    <div class="col-4">
                         <span>Notarius:</span>
                     </div>
-                    <div class="col-7">
+                    <div class="col-8">
                         <span style="white-space: pre-wrap">{{selectedNotariat.info['person_name']}}</span>
                     </div>
                 </div>
 
                 <div class="row py-3 notariat-info-item">
-                    <div class="col-5">
+                    <div class="col-4">
                         <span>Email:</span>
                     </div>
-                    <div class="col-7">
+                    <div class="col-8">
                         <span>{{selectedNotariat.info['email']}}</span>
                     </div>
                 </div>
 
-                <div class="row py-3 notariat-info-item">
+                <!-- <div class="row py-3 notariat-info-item">
                     <div class="col-5">
                         <span>Mobil telefon:</span>
                     </div>
                     <div class="col-7">
                         <span style="white-space: pre-wrap">{{selectedNotariat.info['phone']}}</span>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="row py-3 notariat-info-item">
-                    <div class="col-5">
+                    <div class="col-4">
                         <span>Telefon:</span>
                     </div>
-                    <div class="col-7">
+                    <div class="col-8">
                         <span style="white-space: pre-wrap">{{selectedNotariat.info['telephone']}}</span>
                     </div>
                 </div>
 
                 <div class="row pt-3">
-                    <div class="col-5">
+                    <div class="col-4">
                         <span>Ünvan:</span>
                     </div>
-                    <div class="col-7">
+                    <div class="col-8">
                         <span>{{selectedNotariat.info['address']}}</span>
                     </div>
                 </div>

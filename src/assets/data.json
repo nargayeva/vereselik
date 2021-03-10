@@ -24,7 +24,14 @@
             "lng": 49.835208
         },
         "region": "Səbail",
-        "info": null
+        "info": {
+            "region": "Səbail",
+            "address": "Nərimanov rayonu, Ə.Rəcəbli küçəsi 5",
+            "person_name": "Abdullayeva Zəminə Həsən qızı(TƏQAÜD)",
+            "phone": "(050) 361-54-52",
+            "telephone": "(012) 491-00-28",
+            "email": "zemine.abdullayeva2@mail.ru"
+        }
     },
     {
         "id": 4,
@@ -357,7 +364,14 @@
             "lng": 49.817656
         },
         "region": "Nəsimi",
-        "info": null
+        "info": {
+            "region": "Nəsimi",
+            "person_name": "Gülməmmədova Şövkət Firudin qızı",
+            "phone": "ÖLÜB",
+            "telephone": "(012) 530-17-67",
+            "email": "22notariat@gmail.com",
+            "address": "Nəsimi rayonu, Cavadxan küçəsi 40"
+        }
     },
     {
         "id": 44,
@@ -503,7 +517,14 @@
             "lng": 50.088583
         },
         "region": "Xəzər",
-        "info": null
+        "info": {
+            "region": "Xəzər",
+            "person_name": "Hümmətov Ramiz Kamran oğlu",
+            "phone": "(050) 361- 68-00",
+            "telephone": "(012) 456-39-89\r\n(012) 456-50-22",
+            "email": "ramizhummatov@gmail.com",
+            "address": "Xəzər rayonu, Binə qəsəbəsi, Ə.İsazadə küçəsi 2"
+        }
     },
     {
         "id": 62,
@@ -530,7 +551,14 @@
             "lng": 50.284417
         },
         "region": "Xəzər",
-        "info": null
+        "info": {
+            "region": "Xəzər",
+            "person_name": "Ağayev Bəxtiyar Əbdülşəmsi oğlu",
+            "phone": "(050) 327-27-35",
+            "telephone": "(012) 456-90-76",
+            "email": "natariat1991@mail.ru",
+            "address": "Xəzər rayonu, Zirə qəsəbəsi, C.Əliyev küçəsi"
+        }
     },
     {
         "id": 66,
@@ -948,7 +976,14 @@
             "lng": 49.8998
         },
         "region": "Xəlil Rza Ulutürk",
-        "info": null
+        "info": {
+            "region": "Xəlil Rza Ulutürk",
+            "person_name": "Bağırzadə Rüfət İbrahim oğlu",
+            "phone": "(050) 210-02-90",
+            "telephone": "-",
+            "email": "azenotary@gmail.com",
+            "address": "Xəlil Rza Ulutürk 20"
+        }
     },
     {
         "id": 116,
@@ -1495,7 +1530,15 @@
             "lng": 46.824194
         },
         "region": "Naftalan",
-        "info": null
+        "info": {
+            "region": "Naftalan",
+            "person_name": "Əliyev Şəhriyar Cavanşir oğlu",
+            "phone": "(050) 799-12-52",
+            "telephone": "(02235) 2-12-52",
+            "email": "noter.46@mail.ru",
+            "Rayon adı": "Naftalan",
+            "address": "S.Vurğun küç. 30"
+        }
     },
     {
         "id": 182,
@@ -1539,7 +1582,15 @@
             "lng": 46.91341
         },
         "region": "Qax",
-        "info": null
+        "info": {
+            "region": "Qax",
+            "person_name": "Tağıyev İlyas Nizami oğlu",
+            "phone": "(070) 312-02-72",
+            "telephone": "(02229) 5-10-18",
+            "email": "qazax-notary@inbox.ru ",
+            "Rayon adı": "B+F37",
+            "address": "Z.Tağıyev küç.20"
+        }
     },
     {
         "id": 188,
@@ -1770,7 +1821,15 @@
             "lng": 48.939306
         },
         "region": "Şirvan",
-        "info": null
+        "info": {
+            "region": "Şirvan",
+            "person_name": "Şirvanov Əlixan Fətulla oğlu",
+            "phone": "(050) 322-05-65",
+            "telephone": "(02121) 5-46-56",
+            "email": "shirvan_nk@mail.ru",
+            "Rayon adı": "Şirvan",
+            "address": "20 yanvar küç. 1"
+        }
     },
     {
         "id": 216,
@@ -1814,7 +1873,15 @@
             "lng": 49.679861
         },
         "region": "Sumqayıt",
-        "info": null
+        "info": {
+            "region": "Sumqayıt",
+            "person_name": "Bünyatov Əbülfəz İbrahim oğlu",
+            "phone": "(050) 315-65-44",
+            "telephone": "(1864) 4-69-25",
+            "email": "notariat11@mail.ru",
+            "Rayon adı": "Sumqayıt",
+            "address": "45-ci məhəllə ev 48/1"
+        }
     },
     {
         "id": 222,
@@ -1824,7 +1891,15 @@
             "lng": 49.693611
         },
         "region": "Sumqayıt",
-        "info": null
+        "info": {
+            "region": "Sumqayıt",
+            "person_name": "Mustafazadə Telman Muxtar oğlu",
+            "phone": "(050) 210-81-11",
+            "telephone": "(1864) 8-08-33",
+            "email": "Notariat_mtm@hotmail.com",
+            "Rayon adı": "Sumqayıt",
+            "address": "13-cü mkr. Babək küçəsi, ev 5"
+        }
     },
     {
         "id": 224,
@@ -1834,7 +1909,15 @@
             "lng": 49.672089
         },
         "region": "Sumqayıt",
-        "info": null
+        "info": {
+            "region": "Sumqayıt",
+            "person_name": "Rüstəmov Cəmaləddin Qüdrət oğlu",
+            "phone": "(050) 208-60-43",
+            "telephone": "(1864) 2-61-83",
+            "email": "sumqayit.4sayli@mail.ru",
+            "Rayon adı": "Sumqayıt",
+            "address": "3-cü mkr. ,H.Əliyev pr., 56 C"
+        }
     },
     {
         "id": 226,

@@ -2080,7 +2080,14 @@
             "lng": 45.415806
         },
         "region": "Naxçıvan",
-        "info": null
+        "info": {
+            "region": "Naxçıvan",
+            "address": "Naxçıvan şəhəri, C.Məmmədquluzadə küçəsi, 1/14",
+            "person_name": "Eyvazov Cavid Əvəz oğlu",
+            "phone": "",
+            "telephone": "",
+            "email": "naxcivanseherbirincinot.ofis@gmail.com"
+        }
     },
     {
         "id": 246,
@@ -2090,7 +2097,14 @@
             "lng": 45.405889
         },
         "region": "Naxçıvan",
-        "info": null
+        "info": {
+            "region": "Naxçıvan",
+            "address": "Naxçıvan şəhəri, Nizami küçəsi 36",
+            "person_name": "Əsgərov Məzahir Əkbər oğlu",
+            "phone": "",
+            "telephone": "",
+            "email": "naxseherikincinotariatofisi@gmail.com"
+        }
     },
     {
         "id": 248,
@@ -2100,7 +2114,14 @@
             "lng": 45.40825
         },
         "region": "Naxçıvan",
-        "info": null
+        "info": {
+            "region": "Naxçıvan",
+            "address": "Naxçıvan şəhəri, Babək məhəlləsi",
+            "person_name": "Abbasov İlahi Əli oğlu",
+            "phone": "",
+            "telephone": "",
+            "email": "naxseherucuncunotariatofisi@gmail.com"
+        }
     },
     {
         "id": 250,
@@ -2110,18 +2131,16 @@
             "lng": 45.448083
         },
         "region": "Naxçıvan",
-        "info": null
+        "info": {
+            "region": "Naxçıvan",
+            "address": "Babək şəhəri, Heydər Əliyev prospekti",
+            "person_name": "Cəfərov Rafət Telman oğlu",
+            "phone": "",
+            "telephone": "",
+            "email": "babekrayonnotariatofisi@gmail.com"
+        }
     },
-    {
-        "id": 252,
-        "name": "Şərur rayon 1 saylı notariat ofisi",
-        "loc": {
-            "lat": 39.556167,
-            "lng": 44.981083
-        },
-        "region": "Naxçıvan",
-        "info": null
-    },
+
     {
         "id": 254,
         "name": "Şərur rayon 2 saylı notariat ofisi",
@@ -2130,6 +2149,13 @@
             "lng": 44.988833
         },
         "region": "Naxçıvan",
-        "info": null
+        "info": {
+            "region": "Naxçıvan",
+            "address": "Şərur şəhəri, Heydər Əliyev prospekti 7",
+            "person_name": "Əliyev Raif Mehman oğlu",
+            "phone": "",
+            "telephone": "",
+            "email": "raifaliyev5@gmail.com"
+        }
     }
 ]

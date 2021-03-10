@@ -13,3 +13,10 @@ iframe {
     min-height: 500px;
 }
 
+/* Small devices (landscape phones, 576px and down) */
+@media (max-width: 576px) {
+    p {
+        /* font-size: 0.5em; */
+    }
+}
+

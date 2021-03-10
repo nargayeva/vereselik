@@ -46,8 +46,8 @@
             </div>
         </div>
 
-        <div class="container text-center">
-            <small>Bütün hüquqlar qorunur | 2021</small>
+        <div class="container text-center rights">
+            <span>Bütün hüquqlar qorunur | 2021</span>
         </div>
     </div>
 </template>

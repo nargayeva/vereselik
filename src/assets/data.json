@@ -10,9 +10,9 @@
         "info": {
             "region": "Səbail",
             "address": "Səbail rayonu Ü.Hacıbəyov küçəsi 43",
-            "person_name": "Sabitov Famil Mirsadiq oğlu\nHüseynov Elvin Elbrus oğlu",
+            "person_name": "Sabitov Famil Mirsadiq oğlu Hüseynov Elvin Elbrus oğlu",
             "phone": "(051) 509-64-97",
-            "telephone": "(012) 498-45-14 \n(012) 493-45-14",
+            "telephone": "(012) 498-45-14 (012) 493-45-14",
             "email": "bakunotary1@gmail.com"
         }
     },
@@ -23,7 +23,7 @@
             "lat": 40.348194,
             "lng": 49.835208
         },
-        "region": null,
+        "region": "Səbail",
         "info": null
     },
     {
@@ -356,7 +356,7 @@
             "lat": 40.418706,
             "lng": 49.817656
         },
-        "region": null,
+        "region": "Nəsimi",
         "info": null
     },
     {
@@ -497,12 +497,12 @@
     },
     {
         "id": 60,
-        "name": "﻿Bakı şəhəri, 31 saylı notariat ofisi",
+        "name": "Bakı şəhəri, 31 saylı notariat ofisi",
         "loc": {
             "lat": 40.448667,
             "lng": 50.088583
         },
-        "region": null,
+        "region": "Xəzər",
         "info": null
     },
     {
@@ -529,7 +529,7 @@
             "lat": 40.371667,
             "lng": 50.284417
         },
-        "region": null,
+        "region": "Xəzər",
         "info": null
     },
     {
@@ -947,7 +947,7 @@
             "lat": 40.416235,
             "lng": 49.8998
         },
-        "region": null,
+        "region": "Xəlil Rza Ulutürk",
         "info": null
     },
     {
@@ -1110,7 +1110,7 @@
             "lat": 41.7099303,
             "lng": 46.4144505
         },
-        "region": null,
+        "region": "Balakən",
         "info": null
     },
     {
@@ -1489,12 +1489,12 @@
     },
     {
         "id": 180,
-        "name": "﻿Naftalan rayon dövlət notariat ofisi",
+        "name": "Naftalan rayon dövlət notariat ofisi",
         "loc": {
             "lat": 40.507528,
             "lng": 46.824194
         },
-        "region": null,
+        "region": "Naftalan",
         "info": null
     },
     {
@@ -1538,7 +1538,7 @@
             "lat": 41.422821,
             "lng": 46.91341
         },
-        "region": null,
+        "region": "Qax",
         "info": null
     },
     {
@@ -1548,9 +1548,9 @@
             "lat": 41.090111,
             "lng": 45.36
         },
-        "region": "B+F37",
+        "region": "Qazax",
         "info": {
-            "region": "B+F37",
+            "region": "Qazax",
             "address": "Z.Tağıyev küç.20",
             "person_name": "Tağıyev İlyas Nizami oğlu",
             "phone": "(070) 312-02-72",
@@ -1769,7 +1769,7 @@
             "lat": 39.957056,
             "lng": 48.939306
         },
-        "region": null,
+        "region": "Şirvan",
         "info": null
     },
     {
@@ -1813,7 +1813,7 @@
             "lat": 40.583556,
             "lng": 49.679861
         },
-        "region": null,
+        "region": "Sumqayıt",
         "info": null
     },
     {
@@ -1823,7 +1823,7 @@
             "lat": 40.568306,
             "lng": 49.693611
         },
-        "region": null,
+        "region": "Sumqayıt",
         "info": null
     },
     {
@@ -1833,7 +1833,7 @@
             "lat": 40.58448,
             "lng": 49.672089
         },
-        "region": null,
+        "region": "Sumqayıt",
         "info": null
     },
     {
@@ -1996,7 +1996,7 @@
             "lat": 39.199361,
             "lng": 45.415806
         },
-        "region": null,
+        "region": "Naxçıvan",
         "info": null
     },
     {
@@ -2006,7 +2006,7 @@
             "lat": 39.211472,
             "lng": 45.405889
         },
-        "region": null,
+        "region": "Naxçıvan",
         "info": null
     },
     {
@@ -2016,7 +2016,7 @@
             "lat": 39.191972,
             "lng": 45.40825
         },
-        "region": null,
+        "region": "Naxçıvan",
         "info": null
     },
     {
@@ -2026,7 +2026,7 @@
             "lat": 39.15925,
             "lng": 45.448083
         },
-        "region": null,
+        "region": "Naxçıvan",
         "info": null
     },
     {
@@ -2036,7 +2036,7 @@
             "lat": 39.556167,
             "lng": 44.981083
         },
-        "region": null,
+        "region": "Naxçıvan",
         "info": null
     },
     {
@@ -2046,7 +2046,7 @@
             "lat": 39.558139,
             "lng": 44.988833
         },
-        "region": null,
+        "region": "Naxçıvan",
         "info": null
     }
 ]

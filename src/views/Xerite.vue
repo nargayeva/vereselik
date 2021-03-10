@@ -35,16 +35,76 @@
                              :options="[...notarius_data].filter(d => d.region === selectedRegion.region)"
                 />
 
-                <div v-if="selectedNotariat">
+
+            <!-- <div class="container">
+                <div v-if="selectedNotariat" class=" row notariat-info">
+                    <div class="col-6">
+                            <p>Notarius:</p>
+                            <p>Email:</p>
+                            <p>Mobil telefon:</p>
+                            <p>Ev telefonu:</p>
+                            <p>Ünvan:</p>
+                    </div>
+                    <div class="col-6">
                     <span>{{selectedNotariat.name}}</span>
-                    <div v-if="selectedNotariat.info">
-                        <p>{{selectedNotariat.info['person_name']}}</p>
-                        <p>{{selectedNotariat.info['email']}}</p>
-                        <p>{{selectedNotariat.info['phone']}}</p>
-                        <p>{{selectedNotariat.info['telephone']}}</p>
-                        <p>{{selectedNotariat.info['address']}}</p>
+                        <div v-if="selectedNotariat.info">
+                            <p>{{selectedNotariat.info['person_name']}}</p>
+                            <p>{{selectedNotariat.info['email']}}</p>
+                            <p>{{selectedNotariat.info['phone']}}</p>
+                            <p>{{selectedNotariat.info['telephone']}}</p>
+                            <p>{{selectedNotariat.info['address']}}</p>
+                        </div>
                     </div>
                 </div>
+            </div> -->
+
+            <div v-if="selectedNotariat" class="container notariat-info">
+                <div class="row pb-3 notariat-info-item">
+                    <div class="col-5">
+                        <span>Notarius:</span>
+                    </div>
+                    <div class="col-7">
+                        <span style="white-space: pre-wrap">{{selectedNotariat.info['person_name']}}</span>
+                    </div>
+                </div>
+
+                <div class="row py-3 notariat-info-item">
+                    <div class="col-5">
+                        <span>Email:</span>
+                    </div>
+                    <div class="col-7">
+                        <span>{{selectedNotariat.info['email']}}</span>
+                    </div>
+                </div>
+
+                <div class="row py-3 notariat-info-item">
+                    <div class="col-5">
+                        <span>Mobil telefon:</span>
+                    </div>
+                    <div class="col-7">
+                        <span style="white-space: pre-wrap">{{selectedNotariat.info['phone']}}</span>
+                    </div>
+                </div>
+
+                <div class="row py-3 notariat-info-item">
+                    <div class="col-5">
+                        <span>Telefon:</span>
+                    </div>
+                    <div class="col-7">
+                        <span style="white-space: pre-wrap">{{selectedNotariat.info['telephone']}}</span>
+                    </div>
+                </div>
+
+                <div class="row pt-3">
+                    <div class="col-5">
+                        <span>Ünvan:</span>
+                    </div>
+                    <div class="col-7">
+                        <span>{{selectedNotariat.info['address']}}</span>
+                    </div>
+                </div>
+            </div>
+
 
             </div>
             <div class="col-md-8 col-12 map-container mb-5 googleMap">
@@ -118,5 +178,17 @@
 </script>
 
 <style scoped>
+
+    .notariat-info {
+        /* border: 1px solid #3A7292; */
+        padding: 1em;
+        color: white;
+        background-color: #3A7292;
+    }
+
+    .notariat-info-item {
+        border-bottom: 1px solid white;
+        white-space: pre-wrap;
+    }
 
 </style>

@@ -59,20 +59,27 @@
             </div> -->
 
             <div v-if="selectedNotariat" class="container notariat-info">
-                <div class="row pb-3 notariat-info-item">
-                    <div class="col-4">
+
+                <div v-if="selectedNotariat.info['person_name']" class="row pb-3 notariat-info-item notariat-info-item-title">
+                    <div class="col-12 text-center">
+                        <span style="white-space: pre-wrap">{{selectedNotariat.name}}</span>
+                    </div>
+                </div>
+
+                <div v-if="selectedNotariat.info['person_name']" class="row py-3 notariat-info-item">
+                    <div class="col-3">
                         <span>Notarius:</span>
                     </div>
-                    <div class="col-8">
+                    <div class="col-9">
                         <span style="white-space: pre-wrap">{{selectedNotariat.info['person_name']}}</span>
                     </div>
                 </div>
 
-                <div class="row py-3 notariat-info-item">
-                    <div class="col-4">
+                <div v-if="selectedNotariat.info['email']" class="row py-3 notariat-info-item">
+                    <div class="col-3">
                         <span>Email:</span>
                     </div>
-                    <div class="col-8">
+                    <div class="col-9">
                         <span>{{selectedNotariat.info['email']}}</span>
                     </div>
                 </div>
@@ -86,20 +93,20 @@
                     </div>
                 </div> -->
 
-                <div class="row py-3 notariat-info-item">
-                    <div class="col-4">
+                <div v-if="selectedNotariat.info['telephone']" class="row py-3 notariat-info-item">
+                    <div class="col-3">
                         <span>Telefon:</span>
                     </div>
-                    <div class="col-8">
+                    <div class="col-9">
                         <span style="white-space: pre-wrap">{{selectedNotariat.info['telephone']}}</span>
                     </div>
                 </div>
 
-                <div class="row pt-3">
-                    <div class="col-4">
+                <div v-if="selectedNotariat.info['address']" class="row pt-3">
+                    <div class="col-3">
                         <span>Ünvan:</span>
                     </div>
-                    <div class="col-8">
+                    <div class="col-9">
                         <span>{{selectedNotariat.info['address']}}</span>
                     </div>
                 </div>
@@ -184,11 +191,18 @@
         padding: 1em;
         color: white;
         background-color: #3A7292;
+        font-size: 0.8em;
     }
 
     .notariat-info-item {
         border-bottom: 1px solid white;
         white-space: pre-wrap;
+    }
+
+    .notariat-info-item-title {
+        font-family: FuturicaRegular;
+        text-transform: uppercase;
+        font-size: 1.2em !important;
     }
 
 </style>

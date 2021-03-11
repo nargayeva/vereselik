@@ -20,14 +20,14 @@
                 <span class="contact contact-header">Əlaqə:</span>
 
                 <div class="d-inline mt-3 mb-3">
-                    <i class="fas fa-phone-alt contact"></i>
+                    <i class="fas fa-phone-alt contact mr-3"></i>
                     <span class="contact">+994 12 404 42 28</span>
                 </div>
 
                 <span class="contact contact-header mt-3">Ünvan:</span>
 
                 <div class="d-inline mt-3 mb-5">
-                    <i class="fas fa-map contact"></i>
+                    <i class="fas fa-map contact mr-3"></i>
                     <span class="contact">Bakı şəhəri, AZ1073, İnşaatçılar prospekti 1</span>
                 </div>
             </div>
@@ -147,7 +147,7 @@
             onSubmit() {
                 let newline = '%0D%0A';
 
-                const to = 'someone@yoursite.com';
+                const to = 'gorgudabdinli@aznotary.az';
                 const subject = 'Salam';
                 const body = `${this.question}${newline}${newline}${newline}Ad Soyad: ${this.name}${newline}Fin: ${this.fin}${newline}Email: ${this.email}${newline}Phone number: ${this.phone}`;
 

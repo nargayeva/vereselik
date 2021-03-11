@@ -17,7 +17,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 2, 
         "name": "Bakı şəhəri, 2 saylı notariat ofisi",
         "loc": {
             "lat": 40.348194,
@@ -26,11 +26,11 @@
         "region": "Səbail",
         "info": {
             "region": "Səbail",
-            "address": "Nərimanov rayonu, Ə.Rəcəbli küçəsi 5",
-            "person_name": "Abdullayeva Zəminə Həsən qızı(TƏQAÜD)",
+            "address": "Bakı şəhəri, Səbail rayonu, Xanlar küçəsi 29",
+            "person_name": "Kərimov Elmar Əsgər oğlu",
             "phone": "(050) 361-54-52",
             "telephone": "(012) 491-00-28",
-            "email": "zemine.abdullayeva2@mail.ru"
+            "email": "zemine.abdullayeva2@mail.ru (aznotary-de yoxdur)"
         }
     },
     {
@@ -299,9 +299,9 @@
         "info": {
             "region": "Xətai",
             "address": "Xətai rayonu, Sarayev küçəsi 11",
-            "person_name": "Məlikov Cavanşir Balaəhməd oğlu\nBəşirov Anar Dağbəyi oğlu",
+            "person_name": "Məlikov Cavanşir Balaəhməd oğlu Bəşirov Anar Dağbəyi oğlu",
             "phone": "(051) 718-18-18 (050) 210-84-04",
-            "telephone": "(012) 370-07-01\n\t(012) 370-54-28",
+            "telephone": "(012) 370-07-01 (012) 370-54-28",
             "email": "anarbashirov@mail.ru"
         }
     },
@@ -894,7 +894,7 @@
         "info": {
             "region": "Nərimanov",
             "address": "Nərimanov rayonu, Ak.Həsən Əliyev küçəsi 36",
-            "person_name": "Səmədov Natiq Mirzəxan oğlu\nQasımova Aytəkin Eldar qızı\n\tZərgərov Oqtay Əziz oğlu",
+            "person_name": "Səmədov Natiq Mirzəxan oğlu Qasımova Aytəkin Eldar qızı Zərgərov Oqtay Əziz oğlu",
             "phone": "(050) 311-55-25 (055) 550-57-11 (050) 214-59-36",
             "telephone": "(012) 108",
             "email": "asan1.notariat@gmail.com"
@@ -911,7 +911,7 @@
         "info": {
             "region": "Xətai",
             "address": "Xətai rayonu, Nobel prospekti 23",
-            "person_name": "Vəliyev Hikmət Yusif oğlu\n\tMəmmədov Hüseyn Hüseynağa oğlu Tağızadə Bəsti Əsgər qızı (TƏQAÜD",
+            "person_name": "Vəliyev Hikmət Yusif oğlu Məmmədov Hüseyn Hüseynağa oğlu Mirzəyev Hakim Məmmədrza oğlu",
             "phone": "(050) 210-44-95 (055) 757-11-71 (050) 216-58-79",
             "telephone": "(012) 108",
             "email": "bakuasan2.nk@gmail.com"
@@ -962,7 +962,7 @@
         "info": {
             "region": "Nizami",
             "address": "Nizami rayonu, H. Əliyev prospekti 115",
-            "person_name": "Gülməmmədova Nərmin Kamal qızı\n\tZülfüqarov Ramin Zülfüqar oğlu\n\tİsmayılov Elşən Əyyub oğlu",
+            "person_name": "Gülməmmədova Nərmin Kamal qızı Zülfüqarov Ramin Zülfüqar oğlu İsmayılov Elşən Əyyub oğlu",
             "phone": "(050) 211-43-49 (050) 505-01-50 (050) 555-22-88",
             "telephone": "(012) 108",
             "email": "notariat5@mail.ru"
@@ -975,12 +975,12 @@
             "lat": 40.416235,
             "lng": 49.8998
         },
-        "region": "Xəlil Rza Ulutürk",
+        "region": "Nizami",
         "info": {
-            "region": "Xəlil Rza Ulutürk",
+            "region": "Nizami",
             "person_name": "Bağırzadə Rüfət İbrahim oğlu",
             "phone": "(050) 210-02-90",
-            "telephone": "-",
+            "telephone": "(+99412) 193",
             "email": "azenotary@gmail.com",
             "address": "Xəlil Rza Ulutürk 20"
         }
@@ -1261,7 +1261,7 @@
         "info": {
             "region": "Gəncə",
             "address": "Gəncə şəhəri, H.Əliyev prospekti, 269",
-            "person_name": "Talıbov Məhərrəm Məmməd oğlu\n\tAğcayev Zülfüqar Möhübbət oğlu",
+            "person_name": "Talıbov Məhərrəm Məmməd oğlu Ağcayev Zülfüqar Möhübbət oğlu",
             "phone": "(055) 872-63-93 (050) 333-00-59",
             "telephone": "(012) 108",
             "email": "genceasan.not@mail.ru"
@@ -1414,7 +1414,7 @@
         "info": {
             "region": "İmişli",
             "address": "İmişli rayon, S.Fətəliyev küçəsi 1",
-            "person_name": "Zaidov Zəfər Rza oğlu\n\tNəsirov Seymur Qulamhüseyn oğlu",
+            "person_name": "Zaidov Zəfər Rza oğlu Nəsirov Seymur Qulamhüseyn oğlu",
             "phone": "(050) 357-39-80 (050) 533-81-81",
             "telephone": "(012) 108",
             "email": "zeferzaidov20@gmail.com seymurnesirov20@gmail.com"
@@ -1499,7 +1499,7 @@
         "info": {
             "region": "Masallı",
             "address": "B+F37",
-            "person_name": "İbrahimov Əlövsət Ağakişi oğlu\n\tSadıqov Vüsal Akif oğlu",
+            "person_name": "İbrahimov Əlövsət Ağakişi oğlu Sadıqov Vüsal Akif oğlu",
             "phone": "(050) 356-05-57 (050) 235-11-59",
             "telephone": "(012) 108",
             "email": "masalli.notariat@gmail.com "
@@ -1516,7 +1516,7 @@
         "info": {
             "region": "Mingəçevir",
             "address": "B+F37",
-            "person_name": "Hüseynov Elxan İlyas oğlu\n\tRzayev Nidayət Bəşir oğlu",
+            "person_name": "Hüseynov Elxan İlyas oğlu Rzayev Nidayət Bəşir oğlu",
             "phone": "(050) 386-80-80 (050) 256-02-52",
             "telephone": "(012) 108",
             "email": "huseynovelxan1972@gmail.com nidayet.rzayev@mail.ru"
@@ -1620,7 +1620,7 @@
         "info": {
             "region": "Qəbələ",
             "address": "Qəbələ şəhəri, E.Kərimov küç. 79",
-            "person_name": "Qurban Tamerlan Abdulqafur oğlu\n\tOsmanlı Saday Hüseyn oğlu",
+            "person_name": "Qurban Tamerlan Abdulqafur oğlu Osmanlı Saday Hüseyn oğlu",
             "phone": "(055) 220-45-80 (055) 330-20-50",
             "telephone": "(012) 108",
             "email": "asan.qebele@mail.ru"
@@ -1705,7 +1705,7 @@
         "info": {
             "region": "Sabirabad",
             "address": "Sabirabad şəhəri, H.Əliyev pr. 128",
-            "person_name": "Qurbanov Faiq Ağamoğlan oğlu\n\tZeynalov Mühəddin Hacı oğlu",
+            "person_name": "Qurbanov Faiq Ağamoğlan oğlu Zeynalov Mühəddin Hacı oğlu",
             "phone": "(050) 378-76-22 (055) 648-48-48",
             "telephone": "(012) 108",
             "email": "sabirabadasan-nk@mail.ru "
@@ -1859,7 +1859,7 @@
         "info": {
             "region": "Sumqayıt",
             "address": "Sumqayıt şəhəri, 15-ci məhəllə, Bakı küçəsi ev 43",
-            "person_name": "Əhmədli Baba Məhəmməd oğlu\n\tHacıyev Azər Sədrəddin oğlu\n\tƏmirəliyev Əmirəli Mübariz oğlu",
+            "person_name": "Əhmədli Baba Məhəmməd oğlu Hacıyev Azər Sədrəddin oğlu Əmirəliyev Əmirəli Mübariz oğlu",
             "phone": "(050) 263-55-54 (Ə.B.) (050) 335-74-56 (Ə.Ə.)",
             "telephone": "(012) 108",
             "email": "baba.ehmedli@mail.ru amirali.amiraliyev@gmail.com"
@@ -1998,10 +1998,10 @@
         "info": {
             "region": "Xızı",
             "address": "H.Əliyev pr. 41",
-            "person_name": "",
+            "person_name": "Muradov Kamran Murad oğlu",
             "phone": "",
             "telephone": "(02331) 5-01-97",
-            "email": "xizi.duk@gmail.com"
+            "email": "xizi.dnk@gmail.com"
         }
     },
     {
@@ -2066,7 +2066,7 @@
         "info": {
             "region": "Zərdab",
             "address": "R.Kərimov küç. 44",
-            "person_name": "",
+            "person_name": "Calalov Elman Əhliman oğlu",
             "phone": "",
             "telephone": "(02029) 6-67-00",
             "email": "zerdabdnk@gmail.com"

@@ -75,4 +75,9 @@
     #banner {
         background-image: url('../../public/images/law-courts.jpg');
     }
+
+    .banner-title {
+    font-size: 2em;
+    color: white !important;
+    }
 </style>

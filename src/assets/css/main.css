@@ -54,10 +54,6 @@ body {
     background-color: var(--golden-color);
  }
 
-/* #az {
-     display: none;
- } */
-
 #banner {
     display: flex;
     align-items: center;
@@ -67,10 +63,6 @@ body {
     background-repeat: no-repeat;
 }
 
-.banner-title {
-    font-size: 2em;
-    color: white !important;
-}
 
 .title {
     font-size: 1.5em;

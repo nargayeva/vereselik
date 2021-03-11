@@ -63,6 +63,9 @@ body {
     background-repeat: no-repeat;
 }
 
+.banner-title {
+    font-size: 2em;
+}
 
 .title {
     font-size: 1.5em;

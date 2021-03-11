@@ -77,7 +77,7 @@
     }
 
     .banner-title {
-    font-size: 2em;
-    color: white !important;
+        font-size: 2em;
+        color: white !important;
     }
 </style>

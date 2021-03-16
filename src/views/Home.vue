@@ -80,4 +80,12 @@
         font-size: 2em;
         color: white !important;
     }
+
+    @media (max-width: 576px) {
+    .banner-title {
+        font-size: 1.2em;
+        color: white;
+    }
+
+}
 </style>

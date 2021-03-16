@@ -15,7 +15,7 @@
 
     <!-- Info -->
     <div class="container mt-5  d-flex flex-column">
-        <a href="https://drive.google.com/file/d/145vqCHIe-2ELjdyI55gpQIUMKUbiMqsk/view?usp=sharing" id="martyrs-list" target="_blank" class="mb-5 pl-3">
+        <a href="https://drive.google.com/file/d/1tbRDvvnyAFkzwpgxqG3G2BA6mKzhzaxk/view?usp=sharing" id="martyrs-list" target="_blank" class="mb-5 pl-3">
             Vərəsələrinə sığorta ödənişinin alınması ilə əlaqədar vərəsəlik hüququ haqqında şəhadətnamə veriləcək İkinci
             Qarabağ müharibəsində şəhid olmuş hərbi qulluqçulara dair məlumat (Şəhidlərin siyahısı)</a>
 

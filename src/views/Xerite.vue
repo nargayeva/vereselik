@@ -200,8 +200,8 @@
     }
 
     .notariat-info-item-title {
-        font-family: FuturicaRegular;
-        text-transform: uppercase;
+        font-family: CalibriBold;
+        /* text-transform: uppercase; */
         font-size: 1.2em !important;
     }
 

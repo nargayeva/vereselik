@@ -32,14 +32,16 @@
 }
 
 .card-body {
-    font-family: FuturicaLight  !important;
+    /* font-family: FuturicaLight  !important; */
+    font-family: CalibriLight  !important;
     border-bottom: 1px solid var(--blue-color);
     border-left: 1px solid var(--blue-color);
     border-right: 1px solid var(--blue-color);
 }
 
 strong {
-    font-family: FuturicaRegular !important;
+    /* font-family: FuturicaRegular !important; */
+    font-family: CalibriRegular !important;
 }
 
 .fa-sort-desc {

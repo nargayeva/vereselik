@@ -13,17 +13,20 @@
 }
 
 .contact {
-    font-family: FuturicaLight;
+    /* font-family: FuturicaLight; */
+    font-family: CalibriLight;
     color: var(--black);
 }
 
 .contact-header{
-    font-family: FuturicaRegular;
+    /* font-family: FuturicaRegular; */
+    font-family: CalibriRegular;
     font-size: 1.2em;
 }
 
 .form-group::placeholder{
-    font-family: FuturicaLight !important;
+    /* font-family: FuturicaLight !important; */
+    font-family: CalibriLight !important;
     opacity: 0.5;
 }
 

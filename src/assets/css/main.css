@@ -1,5 +1,5 @@
-@font-face {
-    font-family: FuturicaRegular;
+/* @font-face {
+    font-family: FuturicaLight;
     src: url('../fonts/Futurica/Futurica.ttf');
   }
 
@@ -11,10 +11,27 @@
 @font-face {
     font-family: FuturicaBold;
     src: url('../fonts/Futurica/FuturicaB.ttf');
+  } */
+  
+
+  @font-face {
+    font-family: CalibriLight;
+    src: url('../fonts/Calibri/Calibri\ Light.ttf');
   }
 
+@font-face {
+    font-family: CalibriRegular;
+    src: url('../fonts/Calibri/calibri-regular.ttf');
+  }
+
+@font-face {
+    font-family: CalibriBold;
+    src: url('../fonts/Calibri/calibri-bold.ttf');
+  }
+
+
 body {
-    font-family: FuturicaRegular !important;
+    font-family: CalibriRegular !important;
     height: 100%;
     margin: 0;
 }
@@ -36,7 +53,8 @@ body {
 }
 
 .name {
-    font-weight: bolder;
+    /* font-weight: bolder; */
+    font-family: CalibriBold;
 }
 
 #languages {
@@ -93,12 +111,14 @@ body {
 }
 
 #footer-title {
-    font-family: FuturicaRegular;
+    /* font-family: FuturicaRegular; */
+    font-family: CalibriRegular;
     color: white;
 }
 .footer-text {
     color: white;
-    font-family: FuturicaLight;
+    /* font-family: FuturicaLight; */
+    font-family: CalibriLight;
 }
 
 .footer-text:hover {
@@ -127,7 +147,8 @@ hr {
 
 .rights {
     color: white;
-    font-family: FuturicaLight;
+    /* font-family: FuturicaLight; */
+    font-family: CalibriLight;
 }
 
 /* Small devices (landscape phones, 576px and down) */

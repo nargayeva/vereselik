@@ -19,7 +19,8 @@
 
 .flex-text {
     color: white;
-    font-family: FuturicaLight !important;
+    /* font-family: FuturicaLight !important; */
+    font-family: CalibriLight !important;
 }
 
 #sual {

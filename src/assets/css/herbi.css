@@ -19,7 +19,8 @@
     border-bottom: 1px solid var(--black-color);
     padding-bottom: 30px;
     padding-top: 30px;
-    font-family: FuturicaLight;
+    /* font-family: FuturicaLight; */
+    font-family: CalibriLight;
 }
 
 .herbi-info-last {

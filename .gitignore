@@ -3,3 +3,6 @@
 *.yml
 *.yaml
 assets/js/jquery/select2/docs/pages/13.i18n/docs.md
+/node_modules
+.DS_Store
+*.icloud

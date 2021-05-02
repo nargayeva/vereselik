@@ -1,0 +1,23 @@
+$link-hover-decoration: none !default;
+$enable-rounded: false !default;
+$grid-gutter-width: 20px !default;
+
+$font-weight-bold: 600 !default;
+$primary: #FFB782 !default;
+$secondary: #888 !default;
+$dark: #2D2A29 !default;
+$gray-100: #F8F8F8 !default;
+$gray-200: #EEE !default;
+$gray-300: #CCC !default;
+$red: #B82E24 !default;
+$border-color: $gray-200 !default;
+$body-color: $dark !default;
+$table-border-color: $gray-200 !default;
+$link-color: $dark !default;
+$dropdown-header-color: $dark !default;
+$dropdown-link-color: lighten($dark, 20%) !default;
+$checkbox-color: #FFB782 !default;
+$primary-color: #FFB782 !default;
+$theme-colors: (
+        "grey": $gray-300
+);

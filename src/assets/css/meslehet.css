@@ -1,0 +1,77 @@
+@import "./main.css";
+
+#banner {
+    background-image: url('../../../public/images/meslehet.jpg');
+}
+
+.banner-title {
+    color: white;
+}
+
+.form-control {
+    border-radius: 0% !important;
+}
+
+.contact {
+    /* font-family: FuturicaLight; */
+    font-family: CalibriLight;
+    color: var(--black);
+}
+
+.contact-header{
+    /* font-family: FuturicaRegular; */
+    font-family: CalibriRegular;
+    font-size: 1.2em;
+}
+
+.form-group::placeholder{
+    /* font-family: FuturicaLight !important; */
+    font-family: CalibriLight !important;
+    opacity: 0.5;
+}
+
+.flex-button-send {
+    background-color: white;
+    padding: 10px;
+    width: 70%;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    float: right;
+    width: 100px;
+    color: white !important;
+    background-color: var(--blue-color);
+}
+
+.flex-button-send:hover {
+    background-color: var(--golden-color) !important;
+    color: white !important;
+    text-decoration: none;
+}
+
+textarea {
+    min-height: 200px;
+}
+
+
+/* Small devices (landscape phones, 576px and down) */
+@media (max-width: 576px) {
+    #banner {
+        background-image: url('../../../public/images/meslehet.jpg');
+    }
+
+}
+
+/* Medium devices (tablets, 768px and down) */
+@media (max-width: 768px) {
+ }
+
+ /* Large devices (desktops, 992px and down) */
+@media (min-width: 992px) {
+
+}
+
+/* Extra large devices (large desktops, 1200px and down)  */
+@media (min-width: 1200px) {
+
+}
